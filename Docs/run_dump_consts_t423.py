@@ -1,0 +1,21 @@
+# -*- coding: utf-8 -*-
+import os,sys,time
+SCRIPT=r"C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/dump_consts_t423.py"
+OUT=r"C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Docs\t423_consts.txt"
+sys.path.insert(0,r"C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\PythonScriptPlugin\Content\Python")
+import remote_execution as re
+remote=re.RemoteExecution(); remote.start()
+try:
+ node=None
+ for i in range(40):
+  time.sleep(0.4)
+  if remote.remote_nodes: node=remote.remote_nodes[0]["node_id"]; break
+ if not node: print("NO_NODES")
+ else:
+  remote.open_command_connection(node)
+  r=remote.run_command("exec(compile(open(r'%s',encoding='utf-8-sig').read(),'t423c','exec'))"%SCRIPT,unattended=True,exec_mode=re.MODE_EXEC_STATEMENT)
+  print("ok", bool(r.get("success")))
+  for o in (r.get("output") or [])[:10]:
+    print(o.get("type"), (o.get("output") or "").encode("ascii","replace").decode("ascii")[:200])
+finally: remote.stop()
+print("file", os.path.exists(OUT), open(OUT,encoding="utf-8",errors="replace").read()[:500] if os.path.exists(OUT) else "")

@@ -1,0 +1,23 @@
+begin skin+underscore
+REMOVE 1H_Sword_Offhand
+REMOVE 2H_Sword
+REMOVE Badge_Shield
+REMOVE Icosphere
+REMOVE Rectangle_Shield
+REMOVE Spike_Shield
+RENAMED_BONES [('upperarm.l', 'upperarm_l'), ('lowerarm.l', 'lowerarm_l'), ('wrist.l', 'wrist_l'), ('hand.l', 'hand_l'), ('handslot.l', 'handslot_l'), ('upperarm.r', 'upperarm_r'), ('lowerarm.r', 'lowerarm_r'), ('wrist.r', 'wrist_r'), ('hand.r', 'hand_r'), ('handslot.r', 'handslot_r'), ('upperleg.l', 'upperleg_l'), ('lowerleg.l', 'lowerleg_l'), ('foot.l', 'foot_l'), ('toes.l', 'toes_l'), ('upperleg.r', 'upperleg_r'), ('lowerleg.r', 'lowerleg_r'), ('foot.r', 'foot_r'), ('toes.r', 'toes_r'), ('kneeIK.l', 'kneeIK_l'), ('control-toe-roll.l', 'control-toe-roll_l')]...
+BONE_COUNT 41
+HAS_handslot_r True
+BONE_LOCAL 1H_Sword_Static -> handslot_r verts=359
+BONE_LOCAL Round_Shield_Static -> handslot_l verts=322
+SKIN 1H_Sword -> handslot_r verts=359
+SKIN Round_Shield -> handslot_l verts=322
+SKIN Knight_Cape -> chest verts=56
+SKIN Knight_Helmet -> head verts=504
+BODY_MESHES ['1H_Sword', 'Knight_ArmLeft', 'Knight_ArmRight', 'Knight_Body', 'Knight_Cape', 'Knight_Head', 'Knight_Helmet', 'Knight_LegLeft', 'Knight_LegRight', 'Round_Shield']
+WEAPON_VG [('1H_Sword', ['handslot_r']), ('Knight_Cape', ['chest']), ('Knight_Helmet', ['head']), ('Round_Shield', ['handslot_l'])]
+TOTAL_VERTS 4957
+EXPORTED_BODY C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\Knight_UE_Body.fbx
+EXPORTED_SM C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitSword.fbx bone=handslot_r
+EXPORTED_SM C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitShield.fbx bone=handslot_l
+DONE

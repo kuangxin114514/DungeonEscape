@@ -1,0 +1,37 @@
+=== import_stone_path_materials start ===
+DEST=/Game/Environments/Materials/StonePath
+TILING=6.0
+NO_LEVEL_EDIT=True (will not load/save Map_Hub or apply to actors)
+--- pack PavingStones037 -> M_Cobblestone (medieval irregular cobblestone) ---
+imported /Game/Environments/Materials/StonePath/T_Cobblestone_Color
+imported /Game/Environments/Materials/StonePath/T_Cobblestone_Roughness
+imported /Game/Environments/Materials/StonePath/T_Cobblestone_Normal
+wired M_Cobblestone tiling=6.0
+material=/Game/Environments/Materials/StonePath/M_Cobblestone
+--- pack PavingStones046 -> M_StonePath (ordered stone paving path) ---
+imported /Game/Environments/Materials/StonePath/T_StonePath_Color
+imported /Game/Environments/Materials/StonePath/T_StonePath_Roughness
+imported /Game/Environments/Materials/StonePath/T_StonePath_Normal
+wired M_StonePath tiling=6.0
+material=/Game/Environments/Materials/StonePath/M_StonePath
+--- pack PavingStones070 -> M_PavingMedieval (worn medieval paving stones) ---
+imported /Game/Environments/Materials/StonePath/T_PavingMedieval_Color
+imported /Game/Environments/Materials/StonePath/T_PavingMedieval_Roughness
+imported /Game/Environments/Materials/StonePath/T_PavingMedieval_Normal
+wired M_PavingMedieval tiling=6.0
+material=/Game/Environments/Materials/StonePath/M_PavingMedieval
+saved assets under /Game/Environments/Materials/StonePath
+=== SUMMARY (Content Browser paths) ===
+MATERIAL /Game/Environments/Materials/StonePath/M_Cobblestone  # medieval irregular cobblestone | ambientCG PavingStones037 (CC0)
+  Color      /Game/Environments/Materials/StonePath/T_Cobblestone_Color
+  Roughness  /Game/Environments/Materials/StonePath/T_Cobblestone_Roughness
+  Normal     /Game/Environments/Materials/StonePath/T_Cobblestone_Normal
+MATERIAL /Game/Environments/Materials/StonePath/M_StonePath  # ordered stone paving path | ambientCG PavingStones046 (CC0)
+  Color      /Game/Environments/Materials/StonePath/T_StonePath_Color
+  Roughness  /Game/Environments/Materials/StonePath/T_StonePath_Roughness
+  Normal     /Game/Environments/Materials/StonePath/T_StonePath_Normal
+MATERIAL /Game/Environments/Materials/StonePath/M_PavingMedieval  # worn medieval paving stones | ambientCG PavingStones070 (CC0)
+  Color      /Game/Environments/Materials/StonePath/T_PavingMedieval_Color
+  Roughness  /Game/Environments/Materials/StonePath/T_PavingMedieval_Roughness
+  Normal     /Game/Environments/Materials/StonePath/T_PavingMedieval_Normal
+=== done ===

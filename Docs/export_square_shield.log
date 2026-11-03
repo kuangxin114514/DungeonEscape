@@ -1,0 +1,8 @@
+begin square shield
+IMPORT C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\KayKit-Character-Pack-Adventures-1.0-main\addons\kaykit_character_pack_adventures\Assets\gltf\shield_square.gltf
+meshes=['shield_square']
+WROTE C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitShield_Square.fbx size=44220
+IMPORT C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\KayKit-Character-Pack-Adventures-1.0-main\addons\kaykit_character_pack_adventures\Assets\gltf\shield_square_color.gltf
+meshes=['shield_square_color']
+WROTE C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitShield_Square_Color.fbx size=44252
+DONE

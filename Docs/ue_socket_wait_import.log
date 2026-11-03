@@ -1,0 +1,7 @@
+﻿begin wait
+[15:07:48] Waiting for UE4Editor to exit (will NOT kill it)...
+[15:08:43] Editor gone
+[15:08:46] Launching UE4Editor-Cmd import
+[15:09:01] CMD_EXIT=0
+[15:09:01] Reopening editor GUI
+[15:09:01] DONE_PIPELINE

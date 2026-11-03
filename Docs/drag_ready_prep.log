@@ -1,0 +1,8 @@
+SK=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'> verts~?
+sections=None
+handslot_r exists=True
+handslot_l exists=True
+/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword exists=True
+/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield exists=True
+BP editor opened
+CB synced to sword

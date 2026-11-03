@@ -1,0 +1,20 @@
+begin
+mat=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'> sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000002372ABA0800) Class 'SkeletalMesh'>
+sk dirs sample: __format__,default_animating_rig,materials,num_cinematic_mip_levels
+materials len=3 type=<class 'Array'>
+slot0=<Struct 'SkeletalMaterial' (0x000002379ACE65C0) {material_interface: Material'"/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight"', material_slot_name: "knight_texture", uv_channel_data: {}}>
+slot0 props=['assign', 'cast', 'copy', 'get_editor_property', 'material_interface', 'material_slot_name', 'set_editor_properties', 'set_editor_property', 'static_struct', 'to_tuple', 'uv_channel_data']
+prepared slot 0
+prepared slot 1
+prepared slot 2
+set materials array len=3
+sword set_material count=8
+sword static_materials len=1
+sword static_materials set
+shield set_material count=8
+shield static_materials len=1
+shield static_materials set
+bp mesh materials done
+bp smc count=0
+opened sk+bp
+DONE

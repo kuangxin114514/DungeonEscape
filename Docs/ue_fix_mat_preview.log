@@ -1,0 +1,21 @@
+begin
+loaded mat=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x00000281247E90C0) Class 'Material'> tex=<Object '/Game/Characters/Player/KayKit/Textures/knight_texture.knight_texture' (0x00000281247A3200) Class 'Texture2D'> sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x00000280F248CF00) Class 'SkeletalMesh'>
+mat class=Material
+created MI <Object '/Game/Characters/Player/KayKit/Materials/MI_KayKitKnight.MI_KayKitKnight' (0x0000028124774800) Class 'MaterialInstanceConstant'>
+set MI texture param Texture
+old mats n=1
+materials array set n=1
+verify mat[0] slot=knight_texture iface=<Object '/Game/Characters/Player/KayKit/Materials/MI_KayKitKnight.MI_KayKitKnight' (0x0000028124774800) Class 'MaterialInstanceConstant'>
+sm mat SM_KayKitSword
+sm mat SM_KayKitShield
+dup 1H_Sword -> <Object '/Game/Characters/Player/KayKit/Mesh/1H_Sword.1H_Sword' (0x000002812477B400) Class 'StaticMesh'>
+dup Round_Shield -> <Object '/Game/Characters/Player/KayKit/Mesh/Round_Shield.Round_Shield' (0x0000028124778C00) Class 'StaticMesh'>
+bp cdo refreshed
+deleted broken BP_KayKitKnightArmed
+/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_Polluted refs=0
+deleted /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_Polluted
+/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD refs=0
+deleted /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD
+saved_dir
+bone_tree_len=42
+DONE

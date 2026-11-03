@@ -1,0 +1,24 @@
+Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_SwordMesh"
+Begin Object Class=/Script/Engine.StaticMeshComponent Name="SwordMesh_GEN_VARIABLE"
+Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_ShieldMesh"
+Begin Object Class=/Script/Engine.StaticMeshComponent Name="ShieldMesh_GEN_VARIABLE"
+ComponentClass=Class'"/Script/Engine.SceneComponent"'
+InternalVariableName="DefaultSceneRoot"
+ComponentClass=Class'"/Script/Engine.CameraComponent"'
+AttachToName="SpringEndpoint"
+InternalVariableName="FollowCamera"
+ComponentClass=Class'"/Script/Engine.SpringArmComponent"'
+ParentComponentOrVariableName="CollisionCylinder"
+bIsParentComponentNative=True
+InternalVariableName="CameraBoom"
+Begin Object Name="SCS_Node_SwordMesh"
+Begin Object Name="SwordMesh_GEN_VARIABLE"
+StaticMesh=StaticMesh'"/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword"'
+Begin Object Name="SCS_Node_ShieldMesh"
+Begin Object Name="ShieldMesh_GEN_VARIABLE"
+StaticMesh=StaticMesh'"/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield"'
+RootNodes(0)=SCS_Node'"SCS_Node_1"'
+AllNodes(0)=SCS_Node'"SCS_Node_1"'
+AllNodes(1)=SCS_Node'"SCS_Node_2"'
+PREV StaticMeshComponent_26 mesh=<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'> parent=FollowCamera sock=None
+save=True

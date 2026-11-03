@@ -1,0 +1,6 @@
+begin
+src=C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\Knight.fbx
+arm=<bpy_struct, Object("Rig") at 0x000001E024ECDD08> helm=<bpy_struct, Object("Knight_Helmet") at 0x000001E024E71D08>
+head_bone=<bpy_struct, PoseBone("head") at 0x000001E024E96418>
+EXPORTED C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitHelmet.fbx
+DONE

@@ -1,0 +1,31 @@
+SetParent found
+scs=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0' (0x000001CADC6F8AA0) Class 'SimpleConstructionScript'> ptr=0x1CADC6F8AA0
+smc_cls=<Object '/Script/Engine.StaticMeshComponent' (0x000001CAF46BB100) Class 'Class'> ptr=0x1CAF46BB100
+FName(SwordMesh) = ComparisonIndex=1489028 Number=1489028
+FName(ShieldMesh) = ComparisonIndex=1493862 Number=1493862
+CreateNode Sword FAIL Traceback (most recent call last):
+  File "<string>", line 85, in <module>
+OSError: exception: access violation reading 0xFFFFFFFFFFFFFFFF
+
+CreateNode Shield FAIL Traceback (most recent call last):
+  File "<string>", line 92, in <module>
+OSError: exception: access violation reading 0xFFFFFFFFFFFFFFFF
+
+exported after CreateNode
+load /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh' (0x000001CC58AB6200) Class 'SCS_Node'>
+load /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SwordMesh_GEN_VARIABLE => None
+load /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_3 => None
+load /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_4 => None
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_0
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_2
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_1
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_ShieldMesh
+NODE /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_Sword2
+GEN /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh.SwordMesh_GEN_VARIABLE
+  set sword
+GEN /Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_ShieldMesh.ShieldMesh_GEN_VARIABLE
+  set shield
+cdo.mesh=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.Default__BP_KayKitKnight_C:CharacterMesh0' (0x000001CADC628100) Class 'SkeletalMeshComponent'> ptr=0x1cadc628100
+save True
+opened BP editor

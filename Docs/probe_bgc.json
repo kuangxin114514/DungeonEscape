@@ -1,0 +1,102 @@
+{
+  "tries": [
+    {
+      "m": "cls",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C' (0x000001CADC3A9D00) Class 'BlueprintGeneratedClass'>",
+      "type": "BlueprintGeneratedClass"
+    },
+    {
+      "m": "cls_dir",
+      "d": [
+        "call_method",
+        "cast",
+        "get_class",
+        "get_default_object",
+        "get_editor_property",
+        "get_fname",
+        "get_full_name",
+        "get_name",
+        "get_outer",
+        "get_outermost",
+        "get_path_name",
+        "get_typed_outer",
+        "get_world",
+        "modify",
+        "rename",
+        "set_editor_properties",
+        "set_editor_property",
+        "static_class"
+      ]
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "SimpleConstructionScript",
+      "err": "BlueprintGeneratedClass: Property 'SimpleConstructionScript' for attribute 'SimpleConstructionScript' on 'BlueprintGeneratedClass' is protected and cannot be read"
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "simple_construction_script",
+      "err": "BlueprintGeneratedClass: Failed to find property 'simple_construction_script' for attribute 'simple_construction_script' on 'BlueprintGeneratedClass'"
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "OverridenArchetype",
+      "err": "BlueprintGeneratedClass: Failed to find property 'OverridenArchetype' for attribute 'OverridenArchetype' on 'BlueprintGeneratedClass'"
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "ComponentTemplates",
+      "err": "BlueprintGeneratedClass: Property 'ComponentTemplates' for attribute 'ComponentTemplates' on 'BlueprintGeneratedClass' is protected and cannot be read"
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "InheritableComponentHandler",
+      "err": "BlueprintGeneratedClass: Property 'InheritableComponentHandler' for attribute 'InheritableComponentHandler' on 'BlueprintGeneratedClass' is protected and cannot be read"
+    },
+    {
+      "m": "cls_prop_fail",
+      "prop": "CookedComponentInstancingData",
+      "err": "BlueprintGeneratedClass: Property 'CookedComponentInstancingData' for attribute 'CookedComponentInstancingData' on 'BlueprintGeneratedClass' is protected and cannot be read"
+    },
+    {
+      "m": "bgc",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C' (0x000001CADC3A9D00) Class 'BlueprintGeneratedClass'>"
+    },
+    {
+      "m": "has_SCS_Node",
+      "val": false
+    },
+    {
+      "m": "has_SimpleConstructionScript",
+      "val": false
+    },
+    {
+      "m": "has_BPEditorLibrary",
+      "val": false
+    },
+    {
+      "m": "has_BlueprintEditorLibrary",
+      "val": false
+    },
+    {
+      "m": "has_SubobjectDataSubsystem",
+      "val": false
+    },
+    {
+      "m": "abp",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_ArmedSocketTest.BP_ArmedSocketTest' (0x000001CBA7391600) Class 'Blueprint'>"
+    },
+    {
+      "m": "find_scs",
+      "val": "None"
+    },
+    {
+      "m": "knight_scs",
+      "val": "None"
+    },
+    {
+      "m": "bp_outer",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight' (0x000001CADC6FBC80) Class 'Package'>"
+    }
+  ]
+}

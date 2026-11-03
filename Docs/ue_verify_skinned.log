@@ -1,0 +1,13 @@
+begin
+sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001F1857B5600) Class 'SkeletalMesh'> skel=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x000001F1857B4800) Class 'Skeleton'>
+sk.sockets err SkeletalMesh: Property 'Sockets' for attribute 'sockets' on 'SkeletalMesh' is protected and cannot be read
+materials n=1
+  mat[0] slot=knight_texture mat=<Struct 'SkeletalMaterial' (0x000001F199B39840) {material_interface: None, material_slot_name: "knight_texture", uv_channel_data: {}}>
+sub SkeletalMeshEditorSubsystem module 'unreal' has no attribute 'SkeletalMeshEditorSubsystem'
+sub AssetEditorSubsystem=<Object '/Engine/Transient.UnrealEdEngine_0:AssetEditorSubsystem_0' (0x000001F14764FD00) Class 'AssetEditorSubsystem'>
+bone_tree type <class 'Array'> len=42
+FbxImportUI mesh/hier props: ['import_as_skeletal', 'import_mesh', 'import_rigid_mesh', 'mesh_type_to_import', 'skeletal_mesh_import_data', 'skeleton', 'static_mesh_import_data']
+child=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnightArmed.BP_KayKitKnightArmed' (0x000001F199B08100) Class 'Blueprint'>
+sop=<Struct 'SoftObjectPath' (0x000001F199AB7C00) {}> path=<Struct 'SoftObjectPath' (0x000001F199AB7C00) {}>
+scs methods: ['call_method', 'cast', 'get_class', 'get_default_object', 'get_editor_property', 'get_fname', 'get_full_name', 'get_name', 'get_outer', 'get_outermost', 'get_path_name', 'get_typed_outer', 'get_world', 'modify', 'rename', 'set_editor_properties', 'set_editor_property', 'static_class']
+DONE

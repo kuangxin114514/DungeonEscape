@@ -1,0 +1,8 @@
+begin 2h swords
+IMPORT C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\KayKit-Character-Pack-Adventures-1.0-main\addons\kaykit_character_pack_adventures\Assets\gltf\sword_2handed.gltf
+meshes=['sword_2handed']
+WROTE C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitSword_2H.fbx size=50108
+IMPORT C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\KayKit-Character-Pack-Adventures-1.0-main\addons\kaykit_character_pack_adventures\Assets\gltf\sword_2handed_color.gltf
+meshes=['sword_2handed_color']
+WROTE C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitSword_2H_Color.fbx size=50156
+DONE

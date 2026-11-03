@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "Roguelite dungeon course project",
+	"Plugins": [
+		{ "Name": "PythonScriptPlugin", "Enabled": true },
+		{ "Name": "EditorScriptingUtilities", "Enabled": true },
+		{ "Name": "OculusVR", "Enabled": false },
+		{ "Name": "OnlineSubsystemOculus", "Enabled": false },
+		{ "Name": "OculusEditor", "Enabled": false }
+	]
+}

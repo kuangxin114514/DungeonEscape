@@ -1,0 +1,174 @@
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DungeonEscape
+LogInit: Display: Loading text-based GConfig....
+[2026.10.29-05.33.15:434][  0]LogHAL: Display: Platform has ~ 16 GB [16788512768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.10.29-05.33.15:779][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.10.29-05.33.18:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.10.29-05.33.18:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.10.29-05.33.18:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.10.29-05.33.18:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.10.29-05.33.18:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.10.29-05.33.18:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2026.10.29-05.33.18:672][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.10.29-05.33.18:676][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.10.29-05.33.18:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2026.10.29-05.33.18:694][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2026.10.29-05.33.18:698][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2026.10.29-05.33.18:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2026.10.29-05.33.18:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2026.10.29-05.33.18:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2026.10.29-05.33.18:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.10.29-05.33.18:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.10.29-05.33.18:746][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.10.29-05.33.18:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.10.29-05.33.18:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.10.29-05.33.18:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2026.10.29-05.33.18:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.10.29-05.33.18:771][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.10.29-05.33.18:774][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.10.29-05.33.18:776][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.10.29-05.33.18:786][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.10.29-05.33.18:817][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2026.10.29-05.33.18:851][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2026.10.29-05.33.19:742][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2026.10.29-05.33.19:826][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/86178/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2026.10.29-05.33.19:840][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2026.10.29-05.33.19:852][  0]LogDerivedDataCache: Display: Performance to C:/Users/86178/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.07ms. RandomReadSpeed=116.33MBs, RandomWriteSpeed=242.57MBs. Assigned SpeedClass 'Local'
+[2026.10.29-05.33.21:017][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.21:017][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.21:018][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.21:085][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.10.29-05.33.21:085][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.10.29-05.33.21:412][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2026.10.29-05.33.21:468][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.10.29-05.33.21:486][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.10.29-05.33.21:488][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.10.29-05.33.21:488][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.10.29-05.33.21:488][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.10.29-05.33.21:489][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-05.33.21:489][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-05.33.21:489][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-05.33.21:489][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-05.33.21:489][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2026.10.29-05.33.21:509][  0]LogAudioMixer: Display: 0: FrontLeft
+[2026.10.29-05.33.21:509][  0]LogAudioMixer: Display: 1: FrontRight
+[2026.10.29-05.33.21:798][  0]LogAudioMixer: Display: Using Audio Device ?? (Realtek(R) Audio)
+[2026.10.29-05.33.21:801][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-05.33.21:808][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-05.33.21:808][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-05.33.21:809][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.10.29-05.33.21:809][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.10.29-05.33.21:810][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.10.29-05.33.21:810][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.10.29-05.33.21:811][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.10.29-05.33.21:933][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2026.10.29-05.33.22:135][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.22:136][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.22:136][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.33.22:196][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2026.10.29-05.33.22:196][  0]LogCook: Display: Mobile HDR setting 1
+[2026.10.29-05.33.22:342][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.10.29-05.33.22:359][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.29-05.33.22:420][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_MainMenu'.
+[2026.10.29-05.33.22:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:478][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2026.10.29-05.33.22:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:481][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2026.10.29-05.33.22:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:482][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2026.10.29-05.33.22:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.10.29-05.33.22:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2026.10.29-05.33.22:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:491][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2026.10.29-05.33.22:492][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:493][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2026.10.29-05.33.22:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:496][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2026.10.29-05.33.22:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2026.10.29-05.33.22:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:499][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2026.10.29-05.33.22:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:503][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2026.10.29-05.33.22:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:504][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2026.10.29-05.33.22:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:506][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2026.10.29-05.33.22:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2026.10.29-05.33.22:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2026.10.29-05.33.22:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2026.10.29-05.33.22:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:516][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.10.29-05.33.22:517][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:517][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2026.10.29-05.33.22:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:521][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2026.10.29-05.33.22:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:522][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2026.10.29-05.33.22:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:523][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2026.10.29-05.33.22:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2026.10.29-05.33.22:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:527][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2026.10.29-05.33.22:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:531][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2026.10.29-05.33.22:532][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2026.10.29-05.33.22:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.33.22:533][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2026.10.29-05.33.22:642][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2026.10.29-05.33.22:642][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2026.10.29-05.33.22:642][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2026.10.29-05.33.24:423][  1]LogFbx: Warning: Bones digested - 51  Depth of hierarchy - 11
+[2026.10.29-05.33.35:847][  1]FBXImport: Warning: ?FBX????????????????????FBX???????????????Export Smoothing Groups?????????????????????FBX???????????????????????????????? 
+[2026.10.29-05.33.35:877][  1]LogPython: Warning: PLAYER: bbox: 'SkeletalMesh' object has no attribute 'get_bounding_box'
+[2026.10.29-05.33.35:881][  1]LogPython: Warning: PLAYER: mesh still tiny (h<80); consider re-export scale
+[2026.10.29-05.33.35:936][  1]LogPython: Error: Traceback (most recent call last):
+[2026.10.29-05.33.35:936][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/import_kaykit_player.py", line 939, in <module>
+[2026.10.29-05.33.35:936][  1]LogPython: Error:     main()
+[2026.10.29-05.33.35:936][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/import_kaykit_player.py", line 921, in main
+[2026.10.29-05.33.35:936][  1]LogPython: Error:     bp = duplicate_character_bp()
+[2026.10.29-05.33.35:936][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/import_kaykit_player.py", line 368, in duplicate_character_bp
+[2026.10.29-05.33.35:936][  1]LogPython: Error:     unreal.EditorAssetLibrary.duplicate_asset(BP_NAME, DEST_BP, TP_CHAR)
+[2026.10.29-05.33.35:936][  1]LogPython: Error: TypeError: duplicate_asset() takes at most 2 arguments (3 given)
+[2026.10.29-05.33.35:971][  2]LogContentValidation: Display: ????SkeletalMesh /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight
+[2026.10.29-05.33.35:971][  2]LogContentValidation: Display: ????Material /Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight
+[2026.10.29-05.33.35:971][  2]LogContentValidation: Display: ????Texture2D /Game/Characters/Player/KayKit/Textures/T_KayKitKnight.T_KayKitKnight
+[2026.10.29-05.33.35:971][  2]LogContentValidation: Display: ????AnimBlueprint /Game/Characters/Player/KayKit/ABP_KayKitKnight.ABP_KayKitKnight
+[2026.10.29-05.33.36:010][  3]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.29-05.33.36:010][  3]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.29-05.33.36:010][  3]LogAudio: Display: Audio Device unregistered from world 'Map_MainMenu'.
+[2026.10.29-05.33.36:013][  3]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.29-05.33.38:247][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-05.33.38:247][  3]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2026.10.29-05.33.38:247][  3]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2026.10.29-05.33.38:247][  3]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2026.10.29-05.33.38:247][  3]LogShaderCompilers: Display: ================================================
+[2026.10.29-05.33.38:256][  3]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.29-05.33.40:116][  3]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2026.10.29-05.33.40:117][  3]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAB159CA0-4F19-9486-F9B0-98B20A5D960B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2430022e4ce814a471e913a6dde0b454%7C82da935126da4cd3b5b8482e3b4a064d%7C8419ab49-8862-4376-8657-af77d45c0159&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.10.29-05.33.40:117][  3]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2026.10.29-05.33.40:393][  3]LogContentStreaming: Display: There are 1 unreleased StreamingManagers

@@ -1,0 +1,16 @@
+begin keep_plume_drop_cape_helmet
+BODYONLY: start
+BODYONLY: mat=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'> skel=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x000002372A9B4800) Class 'Skeleton'>
+BODYONLY: bound existing skeleton
+BODYONLY: imported body paths=['/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight']
+BODYONLY: sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000002372ABA0800) Class 'SkeletalMesh'>
+BODYONLY: num_vertices lod0=None
+BODYONLY: sk mat slots applied=0
+BODYONLY: import SM SM_KayKitSword -> <Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x00000237498B3C00) Class 'StaticMesh'>
+BODYONLY: SM SM_KayKitSword mat slots=8
+BODYONLY: import SM SM_KayKitShield -> <Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x0000023745BEFC00) Class 'StaticMesh'>
+BODYONLY: SM SM_KayKitShield mat slots=8
+BODYONLY: bp mesh refreshed
+BODYONLY: bp CharacterMesh0 materials set
+BODYONLY: reopened bp editor
+BODYONLY: DONE keep_plume_drop_cape verts_expect~3772 got=None sword=True shield=True

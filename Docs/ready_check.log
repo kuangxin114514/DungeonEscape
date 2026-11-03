@@ -1,0 +1,9 @@
+SK=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'>
+asset /Game/Characters/Player/KayKit/Weapons/SM_KayKitSword exist=True
+asset /Game/Characters/Player/KayKit/Weapons/SM_KayKitShield exist=True
+orphan SCS_Node_SwordMesh = <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh' (0x000001CC58AB6200) Class 'SCS_Node'>
+  tmpl_err=Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'
+orphan SCS_Node_ShieldMesh = <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_ShieldMesh' (0x000001CB71B83EC0) Class 'SCS_Node'>
+  tmpl_err=Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'
+CDO_mesh=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.Default__BP_KayKitKnight_C:CharacterMesh0' (0x000001CC38989600) Class 'SkeletalMeshComponent'> sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'>
+mesh_sockets=['Rig', 'root', 'hips', 'spine', 'chest', 'upperarm_l', 'lowerarm_l', 'wrist_l', 'hand_l', 'handslot_l', 'upperarm_r', 'lowerarm_r', 'wrist_r', 'hand_r', 'handslot_r', 'head', 'upperleg_l', 'lowerleg_l', 'foot_l', 'toes_l', 'upperleg_r', 'lowerleg_r', 'foot_r', 'toes_r', 'kneeIK_l', 'control-toe-roll_l', 'control-heel-roll_l', 'control-foot-roll_l', 'heelIK_l', 'IK-foot_l', 'IK-toe_l', 'kneeIK_r', 'control-toe-roll_r', 'control-heel-roll_r', 'control-foot-roll_r', 'heelIK_r', 'IK-foot_r', 'IK-toe_r', 'elbowIK_l', 'handIK_l', 'elbowIK_r', 'handIK_r']

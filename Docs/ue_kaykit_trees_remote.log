@@ -1,0 +1,1 @@
+{'success': True, 'command': "p=r'C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/fix_kaykit_trees_yaxis.py'; exec(compile(open(p,encoding='utf-8').read(),p,'exec')); print('REMOTE_DONE')", 'result': 'None', 'output': [{'type': 'Info', 'output': 'KAYTREES_FIX_DONE n=6'}, {'type': 'Info', 'output': 'KAYTREES_FIX_DONE n=6'}, {'type': 'Info', 'output': 'REMOTE_DONE'}]}

@@ -1,0 +1,29 @@
+﻿# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Large local-only assets / scratch
+RawAssets/
+Docs/*.txt
+Content/Python/__pycache__/
+*.pyc
+_tmp_*
+
+# IDE / OS
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local backups
+*.pre_*
+*.repair_attempt

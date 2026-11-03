@@ -1,0 +1,61 @@
+unreal.AssetEditorSubsystem
+unreal.CustomizedToolMenu
+unreal.EditorUtilityToolMenuEntry
+unreal.EditorUtilityToolMenuSection
+unreal.KismetAIAsyncTaskProxy
+unreal.KismetArrayLibrary
+unreal.LevelStreamingKismet
+unreal.ToolMenu
+unreal.ToolMenuBase
+unreal.ToolMenuContext
+unreal.ToolMenuContextBase
+unreal.ToolMenuContextExtensions
+unreal.ToolMenuDynamicCanExecuteAction
+unreal.ToolMenuDynamicExecuteAction
+unreal.ToolMenuDynamicGetActionCheckState
+unreal.ToolMenuDynamicIsActionButtonVisible
+unreal.ToolMenuDynamicIsActionChecked
+unreal.ToolMenuEntry
+unreal.ToolMenuEntryExtensions
+unreal.ToolMenuEntryScript
+unreal.ToolMenuEntryScriptData
+unreal.ToolMenuEntryScriptDataAdvanced
+unreal.ToolMenuInsert
+unreal.ToolMenuInsertType
+unreal.ToolMenuOwner
+unreal.ToolMenuSection
+unreal.ToolMenuSectionDynamic
+unreal.ToolMenuSectionExtensions
+unreal.ToolMenuStringCommand
+unreal.ToolMenuStringCommandType
+unreal.ToolMenus
+has AssetEditorSubsystem True
+has AssetEditorToolkitMenus False
+open_editor OK
+cls /Script/Kismet.BlueprintEditor => None
+cls /Script/Kismet.SSCSEditor => None
+cls /Script/Kismet.SCSEditor => None
+cls /Script/UnrealEd.SCSEditor => None
+cls /Script/Kismet.SComponentClassList => None
+eus=<Object '/Engine/Transient.UnrealEdEngine_0:EditorUtilitySubsystem_0' (0x000001CA867750C0) Class 'EditorUtilitySubsystem'> dir=['call_method', 'can_run', 'cast', 'close_tab_by_id', 'does_tab_exist', 'find_utility_widget_from_blueprint', 'get_class', 'get_default_object', 'get_editor_property', 'get_fname', 'get_full_name', 'get_name', 'get_outer', 'get_outermost', 'get_path_name', 'get_typed_outer', 'get_world', 'modify', 'register_and_execute_task', 'register_tab_and_get_id', 'release_instance_of_asset', 'rename', 'set_editor_properties', 'set_editor_property', 'spawn_and_register_tab', 'spawn_and_register_tab_and_get_id', 'spawn_registered_tab_by_id', 'static_class', 'try_run']
+export-ish: ['AnimSeqExportOption', 'AnimSequenceExporterFBX', 'AssetExportTask', 'AudioRecordingExportType', 'Exporter', 'ExporterFBX', 'FbxExportCompatibility', 'FbxExportOption', 'LevelExporterFBX', 'LevelExporterLOD', 'LevelExporterOBJ', 'LevelExporterSTL', 'LevelExporterT3D', 'ModelExporterT3D', 'ObjectExporterT3D', 'PolysExporterOBJ', 'PolysExporterT3D', 'RenderTargetExporterHDR', 'SequenceExporterT3D', 'SequencerExportTask', 'SkeletalMeshExporterFBX', 'SoundExporterOGG', 'SoundExporterWAV', 'SoundSurroundExporterWAV', 'StaticMeshExporterFBX', 'StaticMeshExporterOBJ', 'TextBufferExporterTXT', 'TextureCubeExporterHDR', 'TextureExporterBMP', 'TextureExporterHDR', 'TextureExporterPCX', 'TextureExporterTGA', 'VectorFieldExporter', 'VirtualTextureBuilderExporterBMP']
+run_asset_export_task => True
+skel=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x000001CB57C1EB00) Class 'Skeleton'>
+skel dir socket: []
+skel.sockets ERR Skeleton: Property 'Sockets' for attribute 'sockets' on 'Skeleton' is protected and cannot be read
+skel.Sockets ERR Skeleton: Property 'Sockets' for attribute 'Sockets' on 'Skeleton' is protected and cannot be read
+skel.preview_attached_assets ERR Skeleton: Failed to find property 'preview_attached_assets' for attribute 'preview_attached_assets' on 'Skeleton'
+skel.PreviewAttachedAssetContainer ERR Skeleton: Property 'PreviewAttachedAssetContainer' for attribute 'PreviewAttachedAssetContainer' on 'Skeleton' is protected and cannot be read
+sk.preview_attached_assets ERR SkeletalMesh: Failed to find property 'preview_attached_assets' for attribute 'preview_attached_assets' on 'SkeletalMesh'
+sk.PreviewAttachedAssetContainer ERR SkeletalMesh: Property 'PreviewAttachedAssetContainer' for attribute 'PreviewAttachedAssetContainer' on 'SkeletalMesh' is protected and cannot be read
+sk.socket_maps ERR SkeletalMesh: Failed to find property 'socket_maps' for attribute 'socket_maps' on 'SkeletalMesh'
+sk dir attach/socket/preview: ['find_socket', 'find_socket_and_index', 'find_socket_info', 'get_socket_by_index', 'num_sockets', 'rename_socket']
+trying instance component on spawned actor in CURRENT Map_Hub - will destroy after
+spawned <Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_0' (0x000001CB871CF200) Class 'BP_KayKitKnight_C'>
+new smc <Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_0.SwordMesh' (0x000001CC64A39D00) Class 'StaticMeshComponent'>
+add_instance_component ERR 'Character' object has no attribute 'add_instance_component'
+register ERR 'StaticMeshComponent' object has no attribute 'register_component'
+attach OK
+ACTORCOMP StaticMeshComponent_1 StaticMeshComponent
+ACTORCOMP SwordMesh StaticMeshComponent
+destroyed temp actor

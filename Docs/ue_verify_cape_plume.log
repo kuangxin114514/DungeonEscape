@@ -1,0 +1,22 @@
+begin
+mat=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'> sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000002372ABA0800) Class 'SkeletalMesh'>
+set_material[0] 'SkeletalMesh' object has no attribute 'set_material'
+set_material applied=0
+prop materials type=<class 'Array'> len=4
+prop materials type=<class 'Array'> len=4
+prop sections err SkeletalMesh: Failed to find property 'sections' for attribute 'sections' on 'SkeletalMesh'
+sk.materials len=4
+ slot0 = <Struct 'SkeletalMaterial' (0x000002379ACBB200) {material_interface: Material'"/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight"', material_slot_name: "knight_texture", uv_channel_data: {}}>
+ slot1 = <Struct 'SkeletalMaterial' (0x000002379ACBAB00) {material_interface: Material'"/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight"', material_slot_name: "knight_texture", uv_channel_data: {}}>
+ slot2 = <Struct 'SkeletalMaterial' (0x000002379ACB9F40) {material_interface: Material'"/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight"', material_slot_name: "knight_texture", uv_channel_data: {}}>
+ slot3 = <Struct 'SkeletalMaterial' (0x000002379ACB9F00) {material_interface: None, material_slot_name: "knight_texture", uv_channel_data: {}}>
+patched skeletal material slot 0
+patched skeletal material slot 1
+patched skeletal material slot 2
+patched skeletal material slot 3
+wrote materials array n=4
+bp mesh materials painted
+sk bounds box=<Struct 'Vector' (0x000002374166EDEC) {x: 66.030457, y: 50.836990, z: 115.077927}> sphere=115.07792663574219
+import_data=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight:FbxSkeletalMeshImportData_0' (0x000002372ADF0FE0) Class 'FbxSkeletalMeshImportData'>
+source=C:/Users/86178/Documents/Unreal Projects/DungeonEscape/RawAssets/KayKitAdventurers/fbx/Knight_UE_Body.fbx
+VERIFY_DONE

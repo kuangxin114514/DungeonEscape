@@ -1,0 +1,30 @@
+=== KAYKIT TREES Y-AXIS FIX ===
+trees_A_small probe Y=1.1089 S=306.5980 (was wrong axis before)
+OK trees_A_small final=437.3,340.0,440.0 Yh=340.0
+trees_B_small probe Y=0.9219 S=368.8156 (was wrong axis before)
+OK trees_B_small final=489.9,340.0,419.9 Yh=340.0
+trees_A_medium probe Y=1.2954 S=463.1952 (was wrong axis before)
+OK trees_A_medium final=811.3,600.0,840.4 Yh=600.0
+trees_B_medium probe Y=1.1740 S=511.0563 (was wrong axis before)
+OK trees_B_medium final=952.5,600.0,936.9 Yh=600.0
+trees_A_large probe Y=0.9264 S=1133.3866 (was wrong axis before)
+OK trees_A_large final=2204.6,1050.0,2229.0 Yh=1050.0
+trees_B_large probe Y=1.1745 S=893.9601 (was wrong axis before)
+OK trees_B_large final=1653.2,1050.0,1727.6 Yh=1050.0
+
+KayKit Trees — place with Roll=90 (Y-up OBJ). Content-only; Map_Hub untouched.
+Asset path prefix: /Game/Environments/KayKitMedieval/Trees/
+Height axis = mesh Y (becomes world Z after Roll 90). Scale3D=1.0 after bake.
+
+trees_A_small | /Game/Environments/KayKitMedieval/Trees/trees_A_small | native_Y=1.1089 S=306.60 | final_bbox=437.3x340.0x440.0 world_height~340.0 (target 340) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_B_small | /Game/Environments/KayKitMedieval/Trees/trees_B_small | native_Y=0.9219 S=368.82 | final_bbox=489.9x340.0x419.9 world_height~340.0 (target 340) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_A_medium | /Game/Environments/KayKitMedieval/Trees/trees_A_medium | native_Y=1.2954 S=463.20 | final_bbox=811.3x600.0x840.4 world_height~600.0 (target 600) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_B_medium | /Game/Environments/KayKitMedieval/Trees/trees_B_medium | native_Y=1.1740 S=511.06 | final_bbox=952.5x600.0x936.9 world_height~600.0 (target 600) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_A_large | /Game/Environments/KayKitMedieval/Trees/trees_A_large | native_Y=0.9264 S=1133.39 | final_bbox=2204.6x1050.0x2229.0 world_height~1050.0 (target 1050) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_B_large | /Game/Environments/KayKitMedieval/Trees/trees_B_large | native_Y=1.1745 S=893.96 | final_bbox=1653.2x1050.0x1727.6 world_height~1050.0 (target 1050) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+tree_single_A | /Game/Environments/KayKitMedieval/Trees/tree_single_A | S=284.17 | final_bbox=163.1x340.0x155.4 world_height~340.0 (target 340) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+tree_single_B | /Game/Environments/KayKitMedieval/Trees/tree_single_B | S=280.37 | final_bbox=192.0x340.0x201.9 world_height~340.0 (target 340) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+tree_single_A_cut | /Game/Environments/KayKitMedieval/Trees/tree_single_A_cut | S=302.81 | final_bbox=51.4x100.0x49.0 world_height~100.0 (target 100) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+tree_single_B_cut | /Game/Environments/KayKitMedieval/Trees/tree_single_B_cut | S=422.57 | final_bbox=76.4x100.0x80.3 world_height~100.0 (target 100) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_A_cut | /Game/Environments/KayKitMedieval/Trees/trees_A_cut | S=429.23 | final_bbox=714.1x90.0x723.1 world_height~90.0 (target 90) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)
+trees_B_cut | /Game/Environments/KayKitMedieval/Trees/trees_B_cut | S=519.67 | final_bbox=728.6x90.0x759.0 world_height~90.0 (target 90) | Scale3D=1.0 | Rotator(roll=90,pitch=0,yaw=...)

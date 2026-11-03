@@ -1,0 +1,22 @@
+=== build_hub_walls start ===
+Map_Hub loaded
+destroyed clutter=257
+spawned HubFloor_Ground
+wall mesh size cm: 10.0 x 100.0 x 100.0
+corner mesh size cm: 100.0 x 100.0 x 100.0
+door mesh size cm: 10.0 x 100.0 x 100.0
+scale xy=1.000 z=3.800 -> seg_len=100.0 seg_h=380.0
+gate at <Struct 'Vector' (0x000001B5A842F1E0) {x: 50.000000, y: 2995.000000, z: 0.000000}>
+wall actors placed=244 seg_len=100.0 courtyard_half=3000.0 height~380.0
+moved PlayerStart to courtyard center
+shop placeholder Weapon at <Struct 'Vector' (0x000001B5A842AAA0) {x: -1200.000000, y: -800.000000, z: 0.000000}>
+shop placeholder Armor at <Struct 'Vector' (0x000001B5B44EEEA0) {x: 1200.000000, y: -800.000000, z: 0.000000}>
+shop placeholder Health at <Struct 'Vector' (0x000001B5A842F220) {x: 0.000000, y: 1200.000000, z: 0.000000}>
+get generated_class prop: Blueprint: Failed to find property 'generated_class' for attribute 'generated_class' on 'Blueprint'
+GM_Hub CDO DefaultPawnClass = ThirdPersonCharacter
+WorldSettings DefaultGameMode = GM_Hub
+SUMMARY {'walls': 239, 'corners': 4, 'gates': 1, 'shops': 3, 'markers': 4, 'labels': 4, 'floors': 1, 'player_starts': 1, 'other_actors': 10, 'total': 267}
+COURTYARD half=3000cm (60m across) wall_h~380cm seg_len=100cm
+PAWN GM_Hub -> ThirdPersonCharacter
+VERIFY: Open /Game/Maps/Hub/Map_Hub, check Outliner HubWall_/HubShop_/HubGate_, PIE walk
+=== build_hub_walls DONE ===

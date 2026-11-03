@@ -1,0 +1,13 @@
+{
+  "sk_path": "/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight",
+  "skel_bone_tree": 42,
+  "junk_preview_assets_cleared": true,
+  "weapons_skinned_into_sk": true,
+  "sm_sword": "/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword",
+  "sm_shield": "/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield",
+  "named_preview_meshes": [
+    "/Game/Characters/Player/KayKit/Mesh/1H_Sword",
+    "/Game/Characters/Player/KayKit/Mesh/Round_Shield"
+  ],
+  "note": "Persona should show sword+shield via skinned geo; skeleton has no socket Preview Asset names. SoftObjectPath Preview API protected in UE4.27 Python."
+}

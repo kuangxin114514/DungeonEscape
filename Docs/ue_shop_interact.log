@@ -1,0 +1,20 @@
+=== shop interact v5 START ===
+deleted /Game/UI/Shop/WBP_Shop
+duplicated WBP_Shop
+retargeted texts=0
+WBP_Shop ready
+reuse stub BP_ShopInteract
+runtime imported tick=<_DelegateHandle object at 0x000001EE148C0B50>
+loaded Map_Hub
+snapshot before n=39
+found shops=['HubShop_Weapon', 'HubShop_Armor', 'HubShop_Health'] gate=HubGate_DungeonEntrance
+spawned native ShopTrigger_Weapon @ HubShop_Weapon
+spawned native ShopTrigger_Armor @ HubShop_Armor
+spawned native ShopTrigger_Health @ HubShop_Health
+spawned native GateTrigger_DungeonEntrance
+VERIFY buildings_unchanged=True count=39
+level saved
+dirty saved
+wrote SHOP_SETUP.md
+spawned=['ShopTrigger_Weapon', 'ShopTrigger_Armor', 'ShopTrigger_Health', 'GateTrigger_DungeonEntrance']
+=== shop interact v5 DONE ===

@@ -1,0 +1,22 @@
+aes=<Object '/Engine/Transient.UnrealEdEngine_0:AssetEditorSubsystem_0' (0x000001CAA577BD00) Class 'AssetEditorSubsystem'>
+aes methods: ['call_method', 'cast', 'close_all_editors_for_asset', 'get_class', 'get_default_object', 'get_editor_property', 'get_fname', 'get_full_name', 'get_name', 'get_outer', 'get_outermost', 'get_path_name', 'get_typed_outer', 'get_world', 'modify', 'open_editor_for_assets', 'rename', 'set_editor_properties', 'set_editor_property', 'static_class']
+hits: []
+tm=<Object '/Engine/Transient.ToolMenus_0' (0x000001CA9B0E8900) Class 'ToolMenus'>
+menu BlueprintEditor.ComponentTree.AddComponent => None
+menu BlueprintEditor.AddComponent => None
+menu SCSEditor.AddComponent => None
+menu BlueprintEditor.ComponentTree.ContextMenu => None
+menu AssetEditor.BlueprintEditor.ToolBar => <Object '/Engine/Transient.ToolMenus_0:RegisteredMenu_61' (0x000001CB588A3D80) Class 'ToolMenu'>
+tm dir: ['add_menu_entry_object', 'call_method', 'cast', 'extend_menu', 'find_context', 'find_menu', 'get', 'get_class', 'get_default_object', 'get_editor_property', 'get_fname', 'get_full_name', 'get_name', 'get_outer', 'get_outermost', 'get_path_name', 'get_typed_outer', 'get_world', 'is_menu_registered', 'modify', 'refresh_all_widgets', 'refresh_menu_widget', 'register_menu', 'remove_entry', 'remove_menu', 'remove_section', 'rename', 'set_editor_properties', 'set_editor_property', 'set_section_label', 'set_section_position', 'static_class', 'unregister_owner_by_name']
+spawned <Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_1' (0x000001CC64A38100) Class 'BP_KayKitKnight_C'>
+creation_method ERR module 'unreal' has no attribute 'ComponentCreationMethod'
+creation_method ERR module 'unreal' has no attribute 'ComponentCreationMethod'
+sword=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_1.SwordMesh' (0x000001CC64969D00) Class 'StaticMeshComponent'> shield=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_1.ShieldMesh' (0x000001CC64969600) Class 'StaticMeshComponent'>
+SMC StaticMeshComponent_1 mesh=<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'> parent=FollowCamera sock=None
+SMC SwordMesh mesh=<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x000001CB98CF4C00) Class 'StaticMesh'> parent=CharacterMesh0 sock=handslot_r
+SMC ShieldMesh mesh=<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x000001CACA441C00) Class 'StaticMesh'> parent=CharacterMesh0 sock=handslot_l
+tools methods with blue/actor/create: ['create_asset', 'create_asset_with_dialog', 'create_unique_asset_name']
+aes has open_editor_for_assets
+aes has close_all_editors_for_asset
+destroyed
+sword export True

@@ -1,0 +1,15 @@
+=== import_grass_material start ===
+TILING=30.0
+imported /Game/Environments/Materials/Grass/T_Grass
+imported /Game/Environments/Materials/Grass/T_Grass_Roughness
+imported /Game/Environments/Materials/Grass/T_Grass_Normal
+wired M_Grass tiling=30.0
+material=/Game/Environments/Materials/Grass/M_Grass
+loaded /Game/Maps/Hub/Map_Hub
+applied M_Grass to HubFloor_Ground slots=1
+floors_found=['HubFloor_Ground']
+applied_count=1
+skipped_buildingish_labels=46
+saved current level
+saved assets under /Game/Environments/Materials/Grass
+=== done ok=True ===

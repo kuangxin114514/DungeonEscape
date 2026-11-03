@@ -1,0 +1,6 @@
+﻿Create here in UE Editor:
+- E_DungeonGameState (Enumeration)
+- GI_DungeonGame (Game Instance)
+- GM_Hub (Game Mode Base)
+- GM_Dungeon (Game Mode Base)
+See Docs/SETUP_GAME_MANAGER_BP.md

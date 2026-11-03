@@ -1,0 +1,49 @@
+begin
+PROBE: sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x00000250088FF900) Class 'SkeletalMesh'>
+PROBE: skel=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x0000025008918100) Class 'Skeleton'>
+PROBE: old=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD.SK_KayKitKnight_Skeleton_OLD' (0x000002500B2CCF00) Class 'Skeleton'>
+PROBE: sk.skeleton=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x0000025008918100) Class 'Skeleton'>
+PROBE: idle.skeleton=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD.SK_KayKitKnight_Skeleton_OLD' (0x000002500B2CCF00) Class 'Skeleton'>
+PROBE: skel outer=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton' (0x0000025008927E40) Class 'Package'> path=/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton
+PROBE: skel kids_n=2
+PROBE: skel kid PackageMetaData:MetaData
+PROBE: skel kid SK_KayKitKnight_Skeleton:Skeleton
+PROBE: sk outer=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight' (0x000002507A8C0560) Class 'Package'> path=/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight
+PROBE: sk kids_n=4
+PROBE: sk kid PackageMetaData:MetaData
+PROBE: sk kid SK_KayKitKnight:SkeletalMesh
+PROBE: sk kid FbxSkeletalMeshImportData_0:FbxSkeletalMeshImportData
+PROBE: sk kid SkeletalMeshEditorData_0:SkeletalMeshEditorData
+PROBE: old outer=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD' (0x000002500AF9A860) Class 'Package'> path=/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton_OLD.SK_KayKitKnight_Skeleton_OLD
+PROBE: old kids_n=2
+PROBE: old kid SK_KayKitKnight_Skeleton_OLD:Skeleton
+PROBE: old kid PackageMetaData:MetaData
+PROBE WARN: idle.call ReplaceSkeleton AnimSequence: Failed to find function 'ReplaceSkeleton' on 'AnimSequence'
+PROBE WARN: idle.call SetSkeleton AnimSequence: Failed to find function 'SetSkeleton' on 'AnimSequence'
+PROBE WARN: idle.call replace_skeleton AnimSequence: Failed to find function 'replace_skeleton' on 'AnimSequence'
+PROBE WARN: idle.call set_skeleton AnimSequence: Failed to find function 'set_skeleton' on 'AnimSequence'
+PROBE WARN: idle.call ReplaceCompatibleSkeleton AnimSequence: Failed to find function 'ReplaceCompatibleSkeleton' on 'AnimSequence'
+PROBE WARN: idle.call SetPreviewMesh AnimSequence: Failed to find function 'SetPreviewMesh' on 'AnimSequence'
+PROBE WARN: idle.call set_preview_mesh AnimSequence: Failed to find function 'set_preview_mesh' on 'AnimSequence'
+PROBE: unreal.AnimGraphLibrary
+PROBE: unreal.AnimationEditorPreviewActor
+PROBE: unreal.AnimationLibrary
+PROBE: unreal.EditorAnimBaseObj
+PROBE: unreal.EditorAnimCompositeSegment
+PROBE: unreal.EditorAnimSegment
+PROBE: unreal.MovieSceneAnimationTrackRecorderEditorSettings
+PROBE: found AnimationLibrary dir=['__setattr__', 'get_bone_compression_settings', 'get_curve_compression_settings', 'replace_anim_notifies', 'replace_anim_notify_states', 'set_additive_animation_type', 'set_additive_base_pose_type', 'set_animation_interpolation_type', 'set_bone_compression_settings', 'set_curve_compression_settings', 'set_editor_properties', 'set_editor_property', 'set_is_root_motion_lock_forced', 'set_rate_scale', 'set_root_motion_enabled', 'set_root_motion_lock_type']
+PROBE: export new_skel -> True C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Docs\new_skel_export.t3d
+PROBE: export old_skel -> True C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Docs\old_skel_export.t3d
+PROBE: ucs=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight:UserConstructionScript' (0x0000025008B093C0) Class 'EdGraph'>
+PROBE WARN: ucs nodes Object: Property 'Nodes' for attribute 'nodes' on 'EdGraph' is protected and cannot be read
+PROBE: ucs dir hits=[]
+PROBE: test_bp=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight_SCSTest.BP_KayKitKnight_SCSTest' (0x000002500BBF7900) Class 'Blueprint'>
+PROBE: test_bp_subs=['ExecuteUbergraph_BP_KayKitKnight_SCSTest:EdGraph', 'EventGraph:EdGraph', 'UserConstructionScript:EdGraph']
+PROBE: num_sockets=0
+PROBE WARN: skel.reference_skeleton Skeleton: Failed to find property 'reference_skeleton' for attribute 'reference_skeleton' on 'Skeleton'
+PROBE WARN: skel.ReferenceSkeleton Skeleton: Failed to find property 'ReferenceSkeleton' for attribute 'ReferenceSkeleton' on 'Skeleton'
+PROBE: skel.bone_tree=[{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+PROBE: skel.BoneTree=[{}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}, {}]
+PROBE: verts0=5775
+PROBE: DONE

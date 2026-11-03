@@ -1,0 +1,19 @@
+REGISTERED AssetEditor.BlueprintEditor.ToolBar
+known BlueprintEditor.ComponentTree.AddComponentPopup reg=False menu=None
+known BlueprintEditor.ComponentTree.AddComponentMenu reg=False menu=None
+known BlueprintEditor.AddComponentPopup reg=False menu=None
+known SCSEditor.AddComponentPopup reg=False menu=None
+known SCSEditor.ComponentTree.ContextMenu reg=False menu=None
+known BlueprintEditor.ComponentTree.ContextMenu reg=False menu=None
+known AssetEditor.BlueprintEditor.ComponentTree.ContextMenu reg=False menu=None
+known BlueprintEditor.Tools reg=False menu=None
+ImportSubsystem <Object '/Engine/Transient.UnrealEdEngine_0:ImportSubsystem_0' (0x000001CAA57D9F00) Class 'ImportSubsystem'>
+imps dir ['call_method', 'cast', 'get_class', 'get_default_object', 'get_editor_property', 'get_fname', 'get_full_name', 'get_name', 'get_outer', 'get_outermost', 'get_path_name', 'get_typed_outer', 'get_world', 'modify', 'on_asset_post_import', 'on_asset_post_lod_import', 'on_asset_pre_import', 'on_asset_reimport', 'rename', 'set_editor_properties', 'set_editor_property', 'static_class']
+gen=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh.SwordMesh_GEN_VARIABLE' (0x000001CC57D62400) Class 'StaticMeshComponent'>
+mesh set
+created shield node <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_ShieldMesh' (0x000001CB71B83EC0) Class 'SCS_Node'>
+created shield gen <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_ShieldMesh.ShieldMesh_GEN_VARIABLE' (0x000001CC64958800) Class 'StaticMeshComponent'>
+shield mesh set
+opened editor
+save True
+re-exported

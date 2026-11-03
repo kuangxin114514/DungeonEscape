@@ -1,0 +1,50 @@
+Begin Object Class=/Script/Engine.SimpleConstructionScript Name="SimpleConstructionScript_0"
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_0"
+   End Object
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_2"
+   End Object
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_1"
+   End Object
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_SwordMesh"
+      Begin Object Class=/Script/Engine.StaticMeshComponent Name="SwordMesh_GEN_VARIABLE"
+      End Object
+   End Object
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_Sword2"
+   End Object
+   Begin Object Name="SCS_Node_0"
+      ComponentClass=Class'"/Script/Engine.SceneComponent"'
+      ComponentTemplate=SceneComponent'"BP_KayKitKnight_C:SceneComponent_0"'
+      CategoryName=NSLOCTEXT("", "B634704C4B8C2CD03940B9A1BCF61B28", "MyCharacter")
+      VariableGuid=56BC9799C494E6E6321D42957D5EB316
+      InternalVariableName="DefaultSceneRoot"
+   End Object
+   Begin Object Name="SCS_Node_2"
+      ComponentClass=Class'"/Script/Engine.CameraComponent"'
+      ComponentTemplate=CameraComponent'"BP_KayKitKnight_C:CameraComponent_0__CCE3C0B4"'
+      CategoryName=NSLOCTEXT("", "657458004C703B3C725FFD887BD4726F", "MyCharacter")
+      AttachToName="SpringEndpoint"
+      VariableGuid=59532DB3100DA6837C332919BA93A9DE
+      InternalVariableName="FollowCamera"
+   End Object
+   Begin Object Name="SCS_Node_1"
+      ComponentClass=Class'"/Script/Engine.SpringArmComponent"'
+      ComponentTemplate=SpringArmComponent'"BP_KayKitKnight_C:SpringArmComponent_0__A9892D03"'
+      CategoryName=NSLOCTEXT("", "85FB7D4443CDB51853118E922B0AC7BB", "MyCharacter")
+      ParentComponentOrVariableName="CollisionCylinder"
+      bIsParentComponentNative=True
+      ChildNodes(0)=SCS_Node'"BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_2"'
+      VariableGuid=9FAECF1AC667795A865E0E9F2ED3478F
+      InternalVariableName="CameraBoom"
+   End Object
+   Begin Object Name="SCS_Node_SwordMesh"
+      Begin Object Name="SwordMesh_GEN_VARIABLE"
+         StaticMesh=StaticMesh'"/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword"'
+      End Object
+   End Object
+   Begin Object Name="SCS_Node_Sword2"
+   End Object
+   RootNodes(0)=SCS_Node'"SCS_Node_1"'
+   AllNodes(0)=SCS_Node'"SCS_Node_1"'
+   AllNodes(1)=SCS_Node'"SCS_Node_2"'
+   DefaultSceneRootNode=SCS_Node'"SCS_Node_0"'
+End Object

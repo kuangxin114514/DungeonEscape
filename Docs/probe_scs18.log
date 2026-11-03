@@ -1,0 +1,22 @@
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/sword_scs.copy => True
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/sword_scs_node.copy => True
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/sword_smc.copy => True
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_scs.copy => True
+node SCS_Node_0 => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_0' (0x000001CADC2107C0) Class 'SCS_Node'>
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_SCS_Node_0.copy => True
+node SCS_Node_1 => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_1' (0x000001CADC210400) Class 'SCS_Node'>
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_SCS_Node_1.copy => True
+node SCS_Node_2 => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_2' (0x000001CADC211300) Class 'SCS_Node'>
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_SCS_Node_2.copy => True
+node SCS_Node_Sword => None
+node SCS_Node_SwordMesh => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_SwordMesh' (0x000001CC58AB6200) Class 'SCS_Node'>
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_SCS_Node_SwordMesh.copy => True
+node SCS_Node_Sword2 => <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_Sword2' (0x000001CB95A22980) Class 'SCS_Node'>
+export C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/knight_SCS_Node_Sword2.copy => True
+aes.OpenEditorForAssets ERR open_editor_for_assets() required argument 'assets' (pos 1) not found
+aes.FindEditorForAsset ERR AssetEditorSubsystem: Failed to find function 'FindEditorForAsset' on 'AssetEditorSubsystem'
+aes.GetEditedAssets ERR AssetEditorSubsystem: Failed to find function 'GetEditedAssets' on 'AssetEditorSubsystem'
+aes.CloseAllAssetEditors ERR AssetEditorSubsystem: Failed to find function 'CloseAllAssetEditors' on 'AssetEditorSubsystem'
+bp.GetSimpleConstructionScript ERR Blueprint: Failed to find function 'GetSimpleConstructionScript' on 'Blueprint'
+bp.GetBlueprintClass ERR Blueprint: Failed to find function 'GetBlueprintClass' on 'Blueprint'
+bp.GeneratedClass ERR Blueprint: Failed to find function 'GeneratedClass' on 'Blueprint'

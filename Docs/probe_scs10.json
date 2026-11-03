@@ -1,0 +1,481 @@
+{
+  "/Game/Characters/Player/KayKit/BP_ArmedSocketTest": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/BP_ArmedSocketTest.BP_ArmedSocketTest' (0x000001CBA7391600) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/BP_ArmedSocketTest.BP_ArmedSocketTest_C' (0x000001CBA7393200) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/BP_ArmedSocketTest.Default__BP_ArmedSocketTest_C' (0x000001CAE7AF5300) Class 'BP_ArmedSocketTest_C'>",
+    "comps": [],
+    "scs": "<Object '/Game/Characters/Player/KayKit/BP_ArmedSocketTest.BP_ArmedSocketTest_C:SimpleConstructionScript_0' (0x000001CBC19326A0) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_ArmedSocketTest.BP_ArmedSocketTest_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "/Game/Characters/Player/KayKit/BP_WeaponAttachProbe": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.BP_WeaponAttachProbe' (0x000001CB5B18DD00) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.BP_WeaponAttachProbe_C' (0x000001CB5B18C100) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.Default__BP_WeaponAttachProbe_C' (0x000001CB86E62B00) Class 'BP_WeaponAttachProbe_C'>",
+    "comps": [],
+    "scs": "<Object '/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.BP_WeaponAttachProbe_C:SimpleConstructionScript_0' (0x000001CB57BB6B00) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.BP_WeaponAttachProbe_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "/Game/Characters/Player/KayKit/BP_ProbeArmed": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed' (0x000001CACA518100) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed_C' (0x000001CACA51B900) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.Default__BP_ProbeArmed_C' (0x000001CB8537B900) Class 'BP_ProbeArmed_C'>",
+    "comps": [
+      {
+        "name": "CollisionCylinder",
+        "class": "CapsuleComponent"
+      },
+      {
+        "name": "Arrow",
+        "class": "ArrowComponent"
+      },
+      {
+        "name": "CharMoveComp",
+        "class": "CharacterMovementComponent"
+      },
+      {
+        "name": "CharacterMesh0",
+        "class": "SkeletalMeshComponent",
+        "sk": "<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'>"
+      }
+    ],
+    "scs": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed_C:SimpleConstructionScript_0' (0x000001CBB39AC100) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.BP_KayKitSwordActor' (0x000001CBB3A93900) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.BP_KayKitSwordActor_C' (0x000001CBB3A92B00) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.Default__BP_KayKitSwordActor_C' (0x000001CB8CB41280) Class 'BP_KayKitSwordActor_C'>",
+    "comps": [
+      {
+        "name": "StaticMeshComponent0",
+        "class": "StaticMeshComponent",
+        "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x000001CB98CF4C00) Class 'StaticMesh'>",
+        "rel": "<Struct 'Vector' (0x000001CBB3A9173C) {x: 0.000000, y: 0.000000, z: 0.000000}>"
+      }
+    ],
+    "scs": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.BP_KayKitSwordActor_C:SimpleConstructionScript_0' (0x000001CB7875E6A0) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.BP_KayKitSwordActor_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.BP_KayKitShieldActor' (0x000001CB7061E400) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.BP_KayKitShieldActor_C' (0x000001CB7061DD00) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.Default__BP_KayKitShieldActor_C' (0x000001CB99388800) Class 'BP_KayKitShieldActor_C'>",
+    "comps": [
+      {
+        "name": "StaticMeshComponent0",
+        "class": "StaticMeshComponent",
+        "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x000001CACA441C00) Class 'StaticMesh'>",
+        "rel": "<Struct 'Vector' (0x000001CB7061EC3C) {x: 0.000000, y: 0.000000, z: 0.000000}>"
+      }
+    ],
+    "scs": "<Object '/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.BP_KayKitShieldActor_C:SimpleConstructionScript_0' (0x000001CB8633A940) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.BP_KayKitShieldActor_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "/Game/Characters/Player/KayKit/BP_KayKitKnight": {
+    "asset": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight' (0x000001CADC3AA400) Class 'Blueprint'>",
+    "class": "Blueprint",
+    "parent": "Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'",
+    "gc": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C' (0x000001CADC3A9D00) Class 'BlueprintGeneratedClass'>",
+    "cdo": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.Default__BP_KayKitKnight_C' (0x000001CACA471600) Class 'BP_KayKitKnight_C'>",
+    "comps": [
+      {
+        "name": "CollisionCylinder",
+        "class": "CapsuleComponent"
+      },
+      {
+        "name": "Arrow",
+        "class": "ArrowComponent"
+      },
+      {
+        "name": "CharMoveComp",
+        "class": "CharacterMovementComponent"
+      },
+      {
+        "name": "CharacterMesh0",
+        "class": "SkeletalMeshComponent",
+        "sk": "<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'>"
+      }
+    ],
+    "scs": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0' (0x000001CADC6F8AA0) Class 'SimpleConstructionScript'>",
+    "nodes": [
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_0",
+        "name": "SCS_Node_0",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      },
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_2",
+        "name": "SCS_Node_2",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      },
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_1",
+        "name": "SCS_Node_1",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      },
+      {
+        "path": "/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_Sword",
+        "name": "SCS_Node_Sword",
+        "component_class": "ERR:Object: Failed to find property 'component_class' for attribute 'component_class' on 'SCS_Node'",
+        "ComponentClass": "ERR:Object: Property 'ComponentClass' for attribute 'ComponentClass' on 'SCS_Node' is protected and cannot be read",
+        "component_template": "ERR:Object: Failed to find property 'component_template' for attribute 'component_template' on 'SCS_Node'",
+        "ComponentTemplate": "ERR:Object: Property 'ComponentTemplate' for attribute 'ComponentTemplate' on 'SCS_Node' is protected and cannot be read",
+        "attach_to_name": "ERR:Object: Failed to find property 'attach_to_name' for attribute 'attach_to_name' on 'SCS_Node'",
+        "AttachToName": "ERR:Object: Property 'AttachToName' for attribute 'AttachToName' on 'SCS_Node' is protected and cannot be read",
+        "parent_component_or_variable_name": "ERR:Object: Failed to find property 'parent_component_or_variable_name' for attribute 'parent_component_or_variable_name' on",
+        "ParentComponentOrVariableName": "ERR:Object: Property 'ParentComponentOrVariableName' for attribute 'ParentComponentOrVariableName' on 'SCS_Node' is protecte",
+        "parent_socket_name": "ERR:Object: Failed to find property 'parent_socket_name' for attribute 'parent_socket_name' on 'SCS_Node'",
+        "ParentSocketName": "ERR:Object: Failed to find property 'ParentSocketName' for attribute 'ParentSocketName' on 'SCS_Node'",
+        "b_is_parent_component_native": "ERR:Object: Failed to find property 'b_is_parent_component_native' for attribute 'b_is_parent_component_native' on 'SCS_Node",
+        "bIsParentComponentNative": "ERR:Object: Property 'bIsParentComponentNative' for attribute 'bIsParentComponentNative' on 'SCS_Node' is protected and cann",
+        "internal_variable_name": "ERR:Object: Failed to find property 'internal_variable_name' for attribute 'internal_variable_name' on 'SCS_Node'",
+        "InternalVariableName": "ERR:Object: Property 'InternalVariableName' for attribute 'InternalVariableName' on 'SCS_Node' is protected and cannot be re",
+        "category_name": "ERR:Object: Failed to find property 'category_name' for attribute 'category_name' on 'SCS_Node'",
+        "CategoryName": "ERR:Object: Property 'CategoryName' for attribute 'CategoryName' on 'SCS_Node' is protected and cannot be read"
+      }
+    ]
+  },
+  "kaykit_smc": [
+    {
+      "path": "/Engine/Transient.World_28:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB6DA4D03C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_27:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB6DA4C93C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_26:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB8431093C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_25:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CBB634D03C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_24:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_6",
+      "name": "StaticMeshComponent_6",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CACA66103C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_14:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB995AAC3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_3:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_5",
+      "name": "StaticMeshComponent_5",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB57A32C3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_Sword.SwordMesh_GEN_VARIABLE",
+      "name": "SwordMesh_GEN_VARIABLE",
+      "mesh": "None",
+      "rel": "<Struct 'Vector' (0x000001CBB396423C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_23:PersistentLevel.BP_KayKitShieldActor_C_0.StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x000001CACA441C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CBA0E89E3C) {x: -69.436646, y: 7.368889, z: 1.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_22:PersistentLevel.BP_KayKitShieldActor_C_0.StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x000001CACA441C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB8CCC9E3C) {x: -69.436646, y: 7.368889, z: 1.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_20:PersistentLevel.BP_KayKitSwordActor_C_0.StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x000001CB98CF4C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB70407A3C) {x: 61.219360, y: -78.991310, z: 1.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_19:PersistentLevel.BP_KayKitSwordActor_C_0.StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x000001CB98CF4C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB706A893C) {x: 61.219360, y: -78.991310, z: 1.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.Default__SKEL_BP_KayKitShieldActor_C:StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "None",
+      "rel": "<Struct 'Vector' (0x000001CB7827BA3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitShieldActor.Default__BP_KayKitShieldActor_C:StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitShield.SM_KayKitShield' (0x000001CACA441C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB7061EC3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_35:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC463D823C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_34:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC35CDD73C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_33:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC35D6D73C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_32:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC2E6FD03C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_31:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC2CF7893C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.Default__SKEL_BP_KayKitSwordActor_C:StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "None",
+      "rel": "<Struct 'Vector' (0x000001CB786DDE3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Game/Characters/Player/KayKit/Weapons/BP_KayKitSwordActor.Default__BP_KayKitSwordActor_C:StaticMeshComponent0",
+      "name": "StaticMeshComponent0",
+      "mesh": "<Object '/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword' (0x000001CB98CF4C00) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CBB3A9173C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_16:PersistentLevel.BP_ProbeArmed_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB73F86C3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_15:PersistentLevel.BP_ProbeArmed_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CB78663A3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_30:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC08E8023C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    },
+    {
+      "path": "/Engine/Transient.World_29:PersistentLevel.BP_KayKitKnight_C_0.StaticMeshComponent_0",
+      "name": "StaticMeshComponent_0",
+      "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+      "rel": "<Struct 'Vector' (0x000001CC1B673A3C) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "attach": "None"
+    }
+  ],
+  "scs_all_nodes": "ERR:Object: Failed to find property 'all_nodes' for attribute 'all_nodes' on 'SimpleConstructionScript'",
+  "scs_AllNodes": "ERR:Object: Property 'AllNodes' for attribute 'AllNodes' on 'SimpleConstructionScript' is protected and cannot be read",
+  "scs_root_nodes": "ERR:Object: Failed to find property 'root_nodes' for attribute 'root_nodes' on 'SimpleConstructionScript'",
+  "scs_RootNodes": "ERR:Object: Property 'RootNodes' for attribute 'RootNodes' on 'SimpleConstructionScript' is protected and cannot be read",
+  "scs_default_scene_root_node": "ERR:Object: Failed to find property 'default_scene_root_node' for attribute 'default_scene_root_node' on 'SimpleConstructionScript'",
+  "scs_DefaultSceneRootNode": "ERR:Object: Property 'DefaultSceneRootNode' for attribute 'DefaultSceneRootNode' on 'SimpleConstructionScript' is protected and cannot be read"
+}

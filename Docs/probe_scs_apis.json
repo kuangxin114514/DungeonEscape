@@ -1,0 +1,123 @@
+{
+  "steps": [
+    {
+      "msg": "bp",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight' (0x000001CADC3AA400) Class 'Blueprint'>"
+    },
+    {
+      "msg": "scs_fail",
+      "prop": "simple_construction_script",
+      "err": "Blueprint: Failed to find property 'simple_construction_script' for attribute 'simple_construction_script' on 'Blueprint'"
+    },
+    {
+      "msg": "scs_fail",
+      "prop": "SimpleConstructionScript",
+      "err": "Blueprint: Property 'SimpleConstructionScript' for attribute 'SimpleConstructionScript' on 'Blueprint' is protected and cannot be read"
+    },
+    {
+      "msg": "BlueprintEditorLibrary",
+      "exists": false
+    },
+    {
+      "msg": "sk",
+      "val": "<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000001CB57C1F900) Class 'SkeletalMesh'>"
+    },
+    {
+      "msg": "materials_count",
+      "n": 1
+    },
+    {
+      "msg": "materials",
+      "names": [
+        "<Struct 'SkeletalMaterial' (0x000001CB5C13D0C0) {material_interface: Material'\"/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight\"', material_slot_name: \"knight_texture\", uv_channel_data: {}}>"
+      ]
+    },
+    {
+      "msg": "sk_interesting",
+      "attrs": [
+        "find_socket",
+        "find_socket_and_index",
+        "find_socket_info",
+        "get_socket_by_index",
+        "is_section_using_cloth",
+        "lod_settings",
+        "materials",
+        "num_sockets",
+        "regenerate_lod",
+        "rename_socket",
+        "strip_lod_geometry"
+      ]
+    },
+    {
+      "msg": "skel",
+      "val": "<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton' (0x000001CB57C1EB00) Class 'Skeleton'>"
+    },
+    {
+      "msg": "skel_attrs",
+      "attrs": []
+    },
+    {
+      "msg": "sock_err",
+      "prop": "sockets",
+      "err": "Skeleton: Property 'Sockets' for attribute 'sockets' on 'Skeleton' is protected and cannot be read"
+    },
+    {
+      "msg": "sock_err",
+      "prop": "Sockets",
+      "err": "Skeleton: Property 'Sockets' for attribute 'Sockets' on 'Skeleton' is protected and cannot be read"
+    },
+    {
+      "msg": "parent_cls",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C' (0x000001CADC3A9D00) Class 'BlueprintGeneratedClass'>"
+    },
+    {
+      "msg": "created_child",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed' (0x000001CACA518100) Class 'Blueprint'>"
+    },
+    {
+      "msg": "child_scs_fail",
+      "prop": "simple_construction_script",
+      "err": "Blueprint: Failed to find property 'simple_construction_script' for attribute 'simple_construction_script' on 'Blueprint'"
+    },
+    {
+      "msg": "child_scs_fail",
+      "prop": "SimpleConstructionScript",
+      "err": "Blueprint: Property 'SimpleConstructionScript' for attribute 'SimpleConstructionScript' on 'Blueprint' is protected and cannot be read"
+    },
+    {
+      "msg": "new_scs_obj",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_ProbeArmed.BP_ProbeArmed:SimpleConstructionScript' (0x000001CBB39ACD40) Class 'SimpleConstructionScript'>"
+    },
+    {
+      "msg": "set_scs_fail",
+      "err": "Blueprint: Failed to find property 'simple_construction_script' for attribute 'simple_construction_script' on 'Blueprint'"
+    },
+    {
+      "msg": "scs2_methods",
+      "attrs": []
+    },
+    {
+      "msg": "create_node_fail",
+      "err": "'Object' object has no attribute 'create_node'"
+    },
+    {
+      "msg": "saved_probe"
+    },
+    {
+      "msg": "mod_KismetEditorUtilities",
+      "exists": false
+    },
+    {
+      "msg": "mod_EditorUtilityLibrary",
+      "exists": true
+    },
+    {
+      "msg": "mod_SubobjectDataBlueprintFunctionLibrary",
+      "exists": false
+    },
+    {
+      "msg": "mod_SubobjectDataSubsystem",
+      "exists": false
+    }
+  ]
+}

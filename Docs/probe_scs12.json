@@ -1,0 +1,516 @@
+{
+  "ell": [
+    "call_method",
+    "cast",
+    "clear_actor_selection_set",
+    "convert_actors",
+    "create_proxy_mesh_actor",
+    "destroy_actor",
+    "editor_end_play",
+    "editor_invalidate_viewports",
+    "editor_play_simulate",
+    "editor_set_game_view",
+    "eject_pilot_level_actor",
+    "get_actor_reference",
+    "get_all_level_actors",
+    "get_all_level_actors_components",
+    "get_class",
+    "get_default_object",
+    "get_editor_property",
+    "get_editor_world",
+    "get_fname",
+    "get_full_name",
+    "get_game_world",
+    "get_level_viewport_camera_info",
+    "get_name",
+    "get_outer",
+    "get_outermost",
+    "get_path_name",
+    "get_pie_worlds",
+    "get_selected_level_actors",
+    "get_typed_outer",
+    "get_world",
+    "join_static_mesh_actors",
+    "load_level",
+    "merge_static_mesh_actors",
+    "modify",
+    "new_level",
+    "new_level_from_template",
+    "pilot_level_actor",
+    "rename",
+    "replace_mesh_components_materials",
+    "replace_mesh_components_materials_on_actors",
+    "replace_mesh_components_meshes",
+    "replace_mesh_components_meshes_on_actors",
+    "replace_selected_actors",
+    "save_all_dirty_levels",
+    "save_current_level",
+    "select_nothing",
+    "set_actor_selection_state",
+    "set_current_level_by_name",
+    "set_editor_properties",
+    "set_editor_property",
+    "set_level_viewport_camera_info",
+    "set_selected_level_actors",
+    "spawn_actor_from_class",
+    "spawn_actor_from_object",
+    "static_class"
+  ],
+  "has_EAS": false,
+  "libs": [
+    "EditorAnimBaseObj",
+    "EditorAnimCompositeSegment",
+    "EditorAnimSegment",
+    "EditorAssetLibrary",
+    "EditorAutomationActor",
+    "EditorAutomationActorComponent",
+    "EditorAutomationObject",
+    "EditorCompositeSection",
+    "EditorDialog",
+    "EditorFilterLibrary",
+    "EditorLevelLibrary",
+    "EditorLevelUtils",
+    "EditorLoadingAndSavingUtils",
+    "EditorParameterGroup",
+    "EditorPerProjectUserSettings",
+    "EditorScriptingCreateProxyMeshActorOptions",
+    "EditorScriptingFilterType",
+    "EditorScriptingJoinStaticMeshActorsOptions",
+    "EditorScriptingMergeStaticMeshActorsOptions",
+    "EditorScriptingMeshReductionOptions",
+    "EditorScriptingMeshReductionSettings",
+    "EditorScriptingStringMatchType",
+    "EditorSkeletalMeshLibrary",
+    "EditorStaticMeshLibrary",
+    "EditorSubsystem",
+    "EditorTutorial",
+    "EditorTutorialFactory",
+    "EditorTutorialImportFactory",
+    "EditorUserSettings",
+    "EditorUtilityActor",
+    "EditorUtilityActorComponent",
+    "EditorUtilityBlueprintAsyncActionBase",
+    "EditorUtilityBlueprintFactory",
+    "EditorUtilityCamera",
+    "EditorUtilityExtension",
+    "EditorUtilityLibrary",
+    "EditorUtilityObject",
+    "EditorUtilitySubsystem",
+    "EditorUtilityTask",
+    "EditorUtilityToolMenuEntry",
+    "EditorUtilityToolMenuSection",
+    "EditorUtilityWidget",
+    "EditorUtilityWidgetBlueprint",
+    "EditorUtilityWidgetBlueprintFactory",
+    "EditorValidatorBase",
+    "EditorValidatorSubsystem",
+    "EditorValidator_Localization",
+    "EditorWorldExtension"
+  ],
+  "previews_n": 17,
+  "previews": [
+    {
+      "path": "/Engine/Transient.World_36:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "StaticMeshComponent_0",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        },
+        {
+          "n": "DrawFrustumComponent_0",
+          "c": "DrawFrustumComponent"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_28:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "DrawFrustumComponent_5",
+          "c": "DrawFrustumComponent"
+        },
+        {
+          "n": "StaticMeshComponent_5",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_27:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "DrawFrustumComponent_5",
+          "c": "DrawFrustumComponent"
+        },
+        {
+          "n": "StaticMeshComponent_5",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_26:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "DrawFrustumComponent_5",
+          "c": "DrawFrustumComponent"
+        },
+        {
+          "n": "StaticMeshComponent_5",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_25:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "DrawFrustumComponent_5",
+          "c": "DrawFrustumComponent"
+        },
+        {
+          "n": "StaticMeshComponent_5",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_24:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "DrawFrustumComponent_7",
+          "c": "DrawFrustumComponent"
+        },
+        {
+          "n": "StaticMeshComponent_7",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_35:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "StaticMeshComponent_0",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        },
+        {
+          "n": "DrawFrustumComponent_0",
+          "c": "DrawFrustumComponent"
+        }
+      ]
+    },
+    {
+      "path": "/Engine/Transient.World_34:PersistentLevel.BP_KayKitKnight_C_0",
+      "name": "BP_KayKitKnight_C_0",
+      "comps": [
+        {
+          "n": "CollisionCylinder",
+          "c": "CapsuleComponent"
+        },
+        {
+          "n": "Arrow",
+          "c": "ArrowComponent"
+        },
+        {
+          "n": "CharMoveComp",
+          "c": "CharacterMovementComponent"
+        },
+        {
+          "n": "CharacterMesh0",
+          "c": "SkeletalMeshComponent"
+        },
+        {
+          "n": "CameraBoom",
+          "c": "SpringArmComponent"
+        },
+        {
+          "n": "FollowCamera",
+          "c": "CameraComponent"
+        },
+        {
+          "n": "StaticMeshComponent_0",
+          "c": "StaticMeshComponent",
+          "mesh": "<Object '/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM' (0x000001CA956B8400) Class 'StaticMesh'>",
+          "socket": "None",
+          "parent": "FollowCamera"
+        },
+        {
+          "n": "DrawFrustumComponent_0",
+          "c": "DrawFrustumComponent"
+        }
+      ]
+    }
+  ],
+  "world": "<Object '/Game/Maps/Hub/Map_Hub.Map_Hub' (0x000001CADC322080) Class 'World'>",
+  "world_name": "Map_Hub",
+  "ell_level": [
+    "clear_actor_selection_set",
+    "convert_actors",
+    "create_proxy_mesh_actor",
+    "destroy_actor",
+    "eject_pilot_level_actor",
+    "get_actor_reference",
+    "get_all_level_actors",
+    "get_all_level_actors_components",
+    "get_level_viewport_camera_info",
+    "get_selected_level_actors",
+    "join_static_mesh_actors",
+    "load_level",
+    "merge_static_mesh_actors",
+    "new_level",
+    "new_level_from_template",
+    "pilot_level_actor",
+    "replace_mesh_components_materials",
+    "replace_mesh_components_materials_on_actors",
+    "replace_mesh_components_meshes",
+    "replace_mesh_components_meshes_on_actors",
+    "replace_selected_actors",
+    "save_all_dirty_levels",
+    "save_current_level",
+    "select_nothing",
+    "set_actor_selection_state",
+    "set_current_level_by_name",
+    "set_level_viewport_camera_info",
+    "set_selected_level_actors",
+    "spawn_actor_from_class",
+    "spawn_actor_from_object"
+  ],
+  "skel_methods": [],
+  "sk_methods": [
+    "find_socket",
+    "find_socket_and_index",
+    "find_socket_info",
+    "get_socket_by_index",
+    "num_sockets",
+    "rename_socket"
+  ],
+  "mesh_comp": "<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.Default__BP_KayKitKnight_C:CharacterMesh0' (0x000001CADC628100) Class 'SkeletalMeshComponent'>",
+  "mesh_methods_sock": [
+    "attach_to",
+    "attach_to_component",
+    "collide_with_attached_children",
+    "does_socket_exist",
+    "exclude_from_light_attachment_group",
+    "get_all_socket_names",
+    "get_attach_parent",
+    "get_attach_socket_name",
+    "get_socket_bone_name",
+    "get_socket_location",
+    "get_socket_quaternion",
+    "get_socket_rotation",
+    "get_socket_transform",
+    "k2_attach_to",
+    "light_attachments_as_group",
+    "set_exclude_from_light_attachment_group",
+    "set_light_attachments_as_group",
+    "sync_attach_parent_lod",
+    "use_attach_parent_bound"
+  ],
+  "sock_handslot_r": "<Struct 'Transform' (0x000001CA88AEBAE0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "exists_handslot_r": true,
+  "sock_handslot_l": "<Struct 'Transform' (0x000001CAC159F6C0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "exists_handslot_l": true,
+  "sock_hand_r": "<Struct 'Transform' (0x000001CA88AEBAE0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "exists_hand_r": true,
+  "sock_hand_l": "<Struct 'Transform' (0x000001CAC159F6C0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "exists_hand_l": true,
+  "sock_weapon_r": "<Struct 'Transform' (0x000001CA88AEBAE0) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+  "exists_weapon_r": false
+}

@@ -1,0 +1,4 @@
+Begin Object Class=/Script/Engine.Skeleton Name="SK_KayKitKnight_Skeleton_OLD"
+   BoneTree(50)=()
+   PreviewSkeletalMesh=/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight
+End Object

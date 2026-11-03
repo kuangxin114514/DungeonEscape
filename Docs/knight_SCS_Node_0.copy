@@ -1,0 +1,7 @@
+Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_0"
+   ComponentClass=Class'"/Script/Engine.SceneComponent"'
+   ComponentTemplate=SceneComponent'"BP_KayKitKnight_C:SceneComponent_0"'
+   CategoryName=NSLOCTEXT("", "B634704C4B8C2CD03940B9A1BCF61B28", "MyCharacter")
+   VariableGuid=56BC9799C494E6E6321D42957D5EB316
+   InternalVariableName="DefaultSceneRoot"
+End Object

@@ -1,0 +1,3 @@
+Begin Object Class=/Script/Engine.StaticMeshComponent Name="StaticMeshComponent0" Archetype=StaticMeshComponent'/Script/Engine.Default__StaticMeshActor:StaticMeshComponent0'
+   StaticMesh=StaticMesh'"/Game/Characters/Player/KayKit/Weapons/SM_KayKitSword.SM_KayKitSword"'
+End Object

@@ -1,0 +1,22 @@
+begin body_keep_plume_drop_cape_helmet
+REMOVE 1H_Sword_Offhand
+REMOVE 2H_Sword
+REMOVE Badge_Shield
+REMOVE Icosphere
+REMOVE Rectangle_Shield
+REMOVE Spike_Shield
+KEEP_HEAD_PLUME verts=727 (no strip)
+RENAMED_BONES count=36
+HAS_handslot_r True
+BONE_LOCAL 1H_Sword_Static -> handslot_r verts=359
+BONE_LOCAL Round_Shield_Static -> handslot_l verts=322
+DROP_FROM_BODY Round_Shield
+DROP_FROM_BODY Knight_Helmet
+DROP_FROM_BODY Knight_Cape
+DROP_FROM_BODY 1H_Sword
+BODY_MESHES ['Knight_ArmLeft', 'Knight_ArmRight', 'Knight_Body', 'Knight_Head', 'Knight_LegLeft', 'Knight_LegRight']
+TOTAL_VERTS 3716
+EXPORTED_BODY C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\Knight_UE_Body.fbx
+EXPORTED_SM C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitSword.fbx bone=handslot_r
+EXPORTED_SM C:\Users\86178\Documents\Unreal Projects\DungeonEscape\RawAssets\KayKitAdventurers\fbx\SM_KayKitShield.fbx bone=handslot_l
+DONE

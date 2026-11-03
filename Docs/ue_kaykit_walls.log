@@ -1,0 +1,22 @@
+=== fix_kaykit_walls_orient start ===
+wall size=2.000 x 1.100 x 0.800 scale=345.4545
+cleared=32
+seg_len=690.9 n=7 inset=138.2
+gate at (0,2862) yaw=0
+sample HubWall_N_00 world_h=380.0 loc=<Struct 'Vector' (0x000001F696721EA0) {x: -2240.000000, y: -2861.818115, z: 0.000000}> rot=<Struct 'Rotator' (0x000001F696721F60) {pitch: 0.000000, yaw: 0.000000, roll: 89.999985}>
+SUMMARY walls=27 corners=4 gates=1 shops=3 placed=32
+SCALE=345.4545 seg_len=690.9cm world_wall_h=380.0cm (~1.98x ThirdPerson 192cm)
+Rotator note: UE4 py Rotator(roll,pitch,yaw); used roll=90 upright
+=== fix_kaykit_walls_orient DONE ===
+
+=== FINAL (after Rotator fix) ===
+SCALE=345.4545 (WALL_HEIGHT_TARGET 380 / native Y height 1.1)
+world_wall_h=380.0cm (~1.98x ThirdPerson ~192cm)
+seg_len=690.9cm  courtyard_half=3000cm (60m)
+actors: walls=27 corners=4 gates=1 shops=3
+import: /Game/Environments/KayKitMedieval/Walls/{wall_straight,wall_straight_gate,wall_corner_A_outside,wall_corner_B_outside,wall_corner_A_gate,fence_stone_straight}
+material: /Game/Environments/KayKitMedieval/Buildings/M_KayKitMedieval
+orientation: UE4 Python Rotator(roll=90, pitch=0, yaw=side) for Y-up KayKit OBJ
+gate: HubGate_DungeonEntrance on south wall
+KEEP: HubShop_*, HubFloor_Ground, Hub_PlayerStart, lighting, GM_Hub ThirdPersonCharacter
+VERIFY: Open /Game/Maps/Hub/Map_Hub — Outliner HubWall_/HubCorner_/HubGate_ — PIE walk next to wall (~2x character tall)

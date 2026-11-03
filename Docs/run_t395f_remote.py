@@ -1,0 +1,24 @@
+﻿# -*- coding: utf-8 -*-
+import os,sys,time,json
+SCRIPT=r"C:/Users/86178/Documents/Unreal Projects/DungeonEscape/Docs/apply_skel_focus_t395.py"
+OUT=r"C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Docs\apply_skel_focus_t395.txt"
+sys.path.insert(0,r"C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Experimental\PythonScriptPlugin\Content\Python")
+import remote_execution as re
+remote=re.RemoteExecution(); remote.start()
+try:
+ node=None
+ for i in range(40):
+  time.sleep(0.4)
+  if remote.remote_nodes: node=remote.remote_nodes[0]["node_id"]; break
+ if not node: print("NO_NODES")
+ else:
+  remote.open_command_connection(node)
+  cmd="exec(compile(open(r'%s',encoding='utf-8-sig').read(),'t395f','exec'))"%SCRIPT
+  r=remote.run_command(cmd,unattended=True,exec_mode=re.MODE_EXEC_STATEMENT)
+  print("ok",r.get("success"))
+  if r.get("result"): print("result",str(r.get("result"))[:500])
+  for o in (r.get("output") or [])[:30]:
+    print(o.get("type"), (o.get("output") or "")[:400])
+finally: remote.stop()
+print("---")
+print(open(OUT,encoding="utf-8",errors="replace").read() if os.path.exists(OUT) else "NO")

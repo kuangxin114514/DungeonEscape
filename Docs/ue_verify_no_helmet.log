@@ -1,0 +1,15 @@
+begin
+sk_slots=2
+sk_slot[0] name=knight_texture mat=/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight
+sk_slot[1] name=knight_texture mat=/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight
+sword_slot[0]=/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight
+shield_slot[0]=/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight
+has get_imported_bounds
+num_lods err 'SkeletalMesh' object has no attribute 'get_num_lods'
+bounds box=<Struct 'Vector' (0x00000237E88DF7AC) {x: 70.168350, y: 145.057022, z: 115.077934}> sphere=198.01026916503906
+compile module 'unreal' has no attribute 'KismetEditorUtilities'
+cdo skeletal=/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight
+cdo override_materials=['/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight', '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight']
+scs 'Blueprint' object has no attribute 'simple_construction_script'
+opened SK
+DONE

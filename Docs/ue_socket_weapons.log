@@ -1,0 +1,7 @@
+﻿DONE kaykit skinned fix 2026-10-29 Asia/Shanghai
+- Skeleton clean: no junk Preview Asset names (Badge/Offhand/Spike/etc cleared)
+- SK_KayKitKnight reimported with skinned 1H_Sword@handslot_r, Round_Shield@handslot_l, cape@chest, helmet@head
+- SM_KayKitSword / SM_KayKitShield bone-local reimported under Weapons/
+- Material M_KayKitKnight BaseColor<-knight_texture; assigned on SK+SMs
+- BP_KayKitKnight CDO mesh/idle/transform refreshed
+- Editor running PID 40492 (remote exec nodes unavailable this session)

@@ -1,0 +1,19 @@
+=== shop verify/repair START ===
+reuse WBP_Shop
+reuse BP_ShopInteract
+runtime tick=<_DelegateHandle object at 0x000001AC3C530470>
+current world=Map_Hub
+already on Map_Hub
+snapshot before n=39
+found shops=['HubShop_Weapon', 'HubShop_Armor', 'HubShop_Health'] gate=HubGate_DungeonEntrance
+refreshed ShopTrigger_Weapon
+refreshed ShopTrigger_Armor
+refreshed ShopTrigger_Health
+refreshed GateTrigger_DungeonEntrance
+existing=['ShopTrigger_Weapon', 'ShopTrigger_Armor', 'ShopTrigger_Health', 'GateTrigger_DungeonEntrance'] missing=[]
+VERIFY buildings_unchanged=True count=39
+level saved
+dirty saved
+wrote SHOP_SETUP.md
+final_triggers=['ShopTrigger_Weapon', 'ShopTrigger_Armor', 'ShopTrigger_Health', 'GateTrigger_DungeonEntrance']
+=== shop verify/repair DONE ===

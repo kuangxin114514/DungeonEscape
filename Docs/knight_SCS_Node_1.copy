@@ -1,0 +1,10 @@
+Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_1"
+   ComponentClass=Class'"/Script/Engine.SpringArmComponent"'
+   ComponentTemplate=SpringArmComponent'"BP_KayKitKnight_C:SpringArmComponent_0__A9892D03"'
+   CategoryName=NSLOCTEXT("", "85FB7D4443CDB51853118E922B0AC7BB", "MyCharacter")
+   ParentComponentOrVariableName="CollisionCylinder"
+   bIsParentComponentNative=True
+   ChildNodes(0)=SCS_Node'"BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_2"'
+   VariableGuid=9FAECF1AC667795A865E0E9F2ED3478F
+   InternalVariableName="CameraBoom"
+End Object

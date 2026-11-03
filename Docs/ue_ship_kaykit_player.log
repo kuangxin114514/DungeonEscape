@@ -1,0 +1,263 @@
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DungeonEscape
+LogInit: Display: Loading text-based GConfig....
+[2026.10.29-05.37.36:132][  0]LogHAL: Display: Platform has ~ 16 GB [16788512768 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2026.10.29-05.37.36:290][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2026.10.29-05.37.36:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2026.10.29-05.37.36:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2026.10.29-05.37.36:560][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2026.10.29-05.37.36:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2026.10.29-05.37.36:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2026.10.29-05.37.36:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2026.10.29-05.37.36:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2026.10.29-05.37.36:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2026.10.29-05.37.36:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2026.10.29-05.37.36:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2026.10.29-05.37.36:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2026.10.29-05.37.36:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2026.10.29-05.37.36:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2026.10.29-05.37.36:618][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2026.10.29-05.37.36:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2026.10.29-05.37.36:627][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2026.10.29-05.37.36:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2026.10.29-05.37.36:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2026.10.29-05.37.36:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2026.10.29-05.37.36:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2026.10.29-05.37.36:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2026.10.29-05.37.36:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2026.10.29-05.37.36:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2026.10.29-05.37.36:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2026.10.29-05.37.36:666][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2026.10.29-05.37.36:673][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2026.10.29-05.37.36:699][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2026.10.29-05.37.36:732][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2026.10.29-05.37.37:283][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2026.10.29-05.37.37:288][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/86178/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2026.10.29-05.37.37:300][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2026.10.29-05.37.37:305][  0]LogDerivedDataCache: Display: Performance to C:/Users/86178/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1897.32MBs, RandomWriteSpeed=222.58MBs. Assigned SpeedClass 'Local'
+[2026.10.29-05.37.38:102][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:104][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:104][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:272][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.10.29-05.37.38:273][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2026.10.29-05.37.38:461][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2026.10.29-05.37.38:523][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Audio Device Manager Initialized
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.10.29-05.37.38:524][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.10.29-05.37.38:524][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.10.29-05.37.38:528][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2026.10.29-05.37.38:540][  0]LogAudioMixer: Display: 0: FrontLeft
+[2026.10.29-05.37.38:540][  0]LogAudioMixer: Display: 1: FrontRight
+[2026.10.29-05.37.38:789][  0]LogAudioMixer: Display: Using Audio Device ?? (Realtek(R) Audio)
+[2026.10.29-05.37.38:790][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.10.29-05.37.38:792][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.10.29-05.37.38:792][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.10.29-05.37.38:794][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2026.10.29-05.37.38:794][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2026.10.29-05.37.38:795][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2026.10.29-05.37.38:795][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2026.10.29-05.37.38:796][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2026.10.29-05.37.38:813][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2026.10.29-05.37.38:963][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:965][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:965][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2026.10.29-05.37.38:997][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2026.10.29-05.37.38:998][  0]LogCook: Display: Mobile HDR setting 1
+[2026.10.29-05.37.39:113][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2026.10.29-05.37.39:120][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.29-05.37.39:158][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map_MainMenu'.
+[2026.10.29-05.37.39:214][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:216][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2026.10.29-05.37.39:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2026.10.29-05.37.39:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2026.10.29-05.37.39:217][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:218][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2026.10.29-05.37.39:218][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:218][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2026.10.29-05.37.39:218][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:219][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2026.10.29-05.37.39:219][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:219][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2026.10.29-05.37.39:219][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:219][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2026.10.29-05.37.39:220][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:220][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2026.10.29-05.37.39:220][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2026.10.29-05.37.39:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2026.10.29-05.37.39:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2026.10.29-05.37.39:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2026.10.29-05.37.39:222][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2026.10.29-05.37.39:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2026.10.29-05.37.39:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:223][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2026.10.29-05.37.39:224][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:224][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.10.29-05.37.39:224][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:224][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2026.10.29-05.37.39:226][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:226][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2026.10.29-05.37.39:226][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:226][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2026.10.29-05.37.39:226][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2026.10.29-05.37.39:227][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2026.10.29-05.37.39:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2026.10.29-05.37.39:228][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2026.10.29-05.37.39:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2026.10.29-05.37.39:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2026.10.29-05.37.39:229][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2026.10.29-05.37.39:276][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2026.10.29-05.37.39:276][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2026.10.29-05.37.39:278][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2026.10.29-05.37.39:649][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.39:650][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.39:650][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.39:650][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.39:651][  1]LogLinker: Warning: ?????{FileName}?????????
+[2026.10.29-05.37.39:651][  1]LogLinker: Warning: ?????{FileName}?????????
+[2026.10.29-05.37.39:651][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.39:652][  1]LogBlueprint: Error: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\ABP_KayKitKnight.uasset: [Compiler] ABP_KayKitKnight  - ??????????????????
+[2026.10.29-05.37.40:087][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:087][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:088][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:088][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:088][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:089][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:089][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.40:089][  1]LogLinker: Warning: [AssetLog] C:\Users\86178\Documents\Unreal Projects\DungeonEscape\Content\Characters\Player\KayKit\Mesh\SK_KayKitKnight.uasset: ?????{FileName}?????????
+[2026.10.29-05.37.41:342][  1]LogFbx: Warning: Bones digested - 51  Depth of hierarchy - 11
+[2026.10.29-05.37.51:374][  1]FBXImport: Warning: ?FBX????????????????????FBX???????????????Export Smoothing Groups?????????????????????FBX???????????????????????????????? 
+[2026.10.29-05.37.52:389][  1]LogPython: Error: Traceback (most recent call last):
+[2026.10.29-05.37.52:389][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/ship_kaykit_player.py", line 644, in <module>
+[2026.10.29-05.37.52:389][  1]LogPython: Error:     main()
+[2026.10.29-05.37.52:390][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/ship_kaykit_player.py", line 623, in main
+[2026.10.29-05.37.52:390][  1]LogPython: Error:     wire_tick(bp, idle, walk or run)
+[2026.10.29-05.37.52:390][  1]LogPython: Error:   File "C:/Temp/DungeonEscape/ship_kaykit_player.py", line 377, in wire_tick
+[2026.10.29-05.37.52:390][  1]LogPython: Error:     pages = list(bp.ubergraph_pages)
+[2026.10.29-05.37.52:390][  1]LogPython: Error: AttributeError: 'Blueprint' object has no attribute 'ubergraph_pages'
+[2026.10.29-05.37.52:437][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Chop_Rig.SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Chop_Rig
+[2026.10.29-05.37.52:438][  2]LogContentValidation: Display: ????PhysicsAsset /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_PhysicsAsset.SK_KayKitKnight_PhysicsAsset
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????Skeleton /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Skeleton.SK_KayKitKnight_Skeleton
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????SkeletalMesh /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Slice_Diagonal_Rig.SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Slice_Diagonal_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Slice_Horizontal_Rig.SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Slice_Horizontal_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Stab_Rig.SK_KayKitKnight_Anim_Rig_1H_Melee_Attack_Stab_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Ranged_Aiming_Rig.SK_KayKitKnight_Anim_Rig_1H_Ranged_Aiming_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Ranged_Reload_Rig.SK_KayKitKnight_Anim_Rig_1H_Ranged_Reload_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Ranged_Shoot_Rig.SK_KayKitKnight_Anim_Rig_1H_Ranged_Shoot_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_1H_Ranged_Shooting_Rig.SK_KayKitKnight_Anim_Rig_1H_Ranged_Shooting_Rig
+[2026.10.29-05.37.52:441][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Chop_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Chop_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Slice_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Slice_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Spin_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Spin_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Spinning_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Spinning_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Stab_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Attack_Stab_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Melee_Idle_Rig.SK_KayKitKnight_Anim_Rig_2H_Melee_Idle_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Ranged_Aiming_Rig.SK_KayKitKnight_Anim_Rig_2H_Ranged_Aiming_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Ranged_Reload_Rig.SK_KayKitKnight_Anim_Rig_2H_Ranged_Reload_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Ranged_Shoot_Rig.SK_KayKitKnight_Anim_Rig_2H_Ranged_Shoot_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_2H_Ranged_Shooting_Rig.SK_KayKitKnight_Anim_Rig_2H_Ranged_Shooting_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Block_Attack_Rig.SK_KayKitKnight_Anim_Rig_Block_Attack_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Block_Hit_Rig.SK_KayKitKnight_Anim_Rig_Block_Hit_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Block_Rig.SK_KayKitKnight_Anim_Rig_Block_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Blocking_Rig.SK_KayKitKnight_Anim_Rig_Blocking_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Cheer_Rig.SK_KayKitKnight_Anim_Rig_Cheer_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Death_A_Pose_Rig.SK_KayKitKnight_Anim_Rig_Death_A_Pose_Rig
+[2026.10.29-05.37.52:442][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Death_A_Rig.SK_KayKitKnight_Anim_Rig_Death_A_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Death_B_Pose_Rig.SK_KayKitKnight_Anim_Rig_Death_B_Pose_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Death_B_Rig.SK_KayKitKnight_Anim_Rig_Death_B_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dodge_Backward_Rig.SK_KayKitKnight_Anim_Rig_Dodge_Backward_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dodge_Forward_Rig.SK_KayKitKnight_Anim_Rig_Dodge_Forward_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dodge_Left_Rig.SK_KayKitKnight_Anim_Rig_Dodge_Left_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dodge_Right_Rig.SK_KayKitKnight_Anim_Rig_Dodge_Right_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Chop_Rig.SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Chop_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Slice_Rig.SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Slice_Rig
+[2026.10.29-05.37.52:443][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Stab_Rig.SK_KayKitKnight_Anim_Rig_Dualwield_Melee_Attack_Stab_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Hit_A_Rig.SK_KayKitKnight_Anim_Rig_Hit_A_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Hit_B_Rig.SK_KayKitKnight_Anim_Rig_Hit_B_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Idle_Rig.SK_KayKitKnight_Anim_Rig_Idle_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Interact_Rig.SK_KayKitKnight_Anim_Rig_Interact_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Jump_Full_Long_Rig.SK_KayKitKnight_Anim_Rig_Jump_Full_Long_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Jump_Full_Short_Rig.SK_KayKitKnight_Anim_Rig_Jump_Full_Short_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Jump_Idle_Rig.SK_KayKitKnight_Anim_Rig_Jump_Idle_Rig
+[2026.10.29-05.37.52:448][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Jump_Land_Rig.SK_KayKitKnight_Anim_Rig_Jump_Land_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Jump_Start_Rig.SK_KayKitKnight_Anim_Rig_Jump_Start_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Lie_Down_Rig.SK_KayKitKnight_Anim_Rig_Lie_Down_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Lie_Idle_Rig.SK_KayKitKnight_Anim_Rig_Lie_Idle_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Lie_Pose_Rig.SK_KayKitKnight_Anim_Rig_Lie_Pose_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Lie_StandUp_Rig.SK_KayKitKnight_Anim_Rig_Lie_StandUp_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_PickUp_Rig.SK_KayKitKnight_Anim_Rig_PickUp_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Running_A_Rig.SK_KayKitKnight_Anim_Rig_Running_A_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Running_B_Rig.SK_KayKitKnight_Anim_Rig_Running_B_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Running_Strafe_Left_Rig.SK_KayKitKnight_Anim_Rig_Running_Strafe_Left_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Running_Strafe_Right_Rig.SK_KayKitKnight_Anim_Rig_Running_Strafe_Right_Rig
+[2026.10.29-05.37.52:449][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Chair_Down_Rig.SK_KayKitKnight_Anim_Rig_Sit_Chair_Down_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Chair_Idle_Rig.SK_KayKitKnight_Anim_Rig_Sit_Chair_Idle_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Chair_Pose_Rig.SK_KayKitKnight_Anim_Rig_Sit_Chair_Pose_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Chair_StandUp_Rig.SK_KayKitKnight_Anim_Rig_Sit_Chair_StandUp_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Floor_Down_Rig.SK_KayKitKnight_Anim_Rig_Sit_Floor_Down_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Floor_Idle_Rig.SK_KayKitKnight_Anim_Rig_Sit_Floor_Idle_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Floor_Pose_Rig.SK_KayKitKnight_Anim_Rig_Sit_Floor_Pose_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Sit_Floor_StandUp_Rig.SK_KayKitKnight_Anim_Rig_Sit_Floor_StandUp_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Spellcast_Long_Rig.SK_KayKitKnight_Anim_Rig_Spellcast_Long_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Spellcast_Raise_Rig.SK_KayKitKnight_Anim_Rig_Spellcast_Raise_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Spellcast_Shoot_Rig.SK_KayKitKnight_Anim_Rig_Spellcast_Shoot_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Spellcasting_Rig.SK_KayKitKnight_Anim_Rig_Spellcasting_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_T-Pose_Rig.SK_KayKitKnight_Anim_Rig_T-Pose_Rig
+[2026.10.29-05.37.52:450][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Throw_Rig.SK_KayKitKnight_Anim_Rig_Throw_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Unarmed_Idle_Rig.SK_KayKitKnight_Anim_Rig_Unarmed_Idle_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Kick_Rig.SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Kick_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Punch_A_Rig.SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Punch_A_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Punch_B_Rig.SK_KayKitKnight_Anim_Rig_Unarmed_Melee_Attack_Punch_B_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Unarmed_Pose_Rig.SK_KayKitKnight_Anim_Rig_Unarmed_Pose_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Use_Item_Rig.SK_KayKitKnight_Anim_Rig_Use_Item_Rig
+[2026.10.29-05.37.52:451][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Walking_A_Rig.SK_KayKitKnight_Anim_Rig_Walking_A_Rig
+[2026.10.29-05.37.52:452][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Walking_B_Rig.SK_KayKitKnight_Anim_Rig_Walking_B_Rig
+[2026.10.29-05.37.52:452][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Walking_Backwards_Rig.SK_KayKitKnight_Anim_Rig_Walking_Backwards_Rig
+[2026.10.29-05.37.52:452][  2]LogContentValidation: Display: ????AnimSequence /Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight_Anim_Rig_Walking_C_Rig.SK_KayKitKnight_Anim_Rig_Walking_C_Rig
+[2026.10.29-05.37.52:474][  3]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.10.29-05.37.52:474][  3]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.10.29-05.37.52:474][  3]LogAudio: Display: Audio Device unregistered from world 'Map_MainMenu'.
+[2026.10.29-05.37.52:477][  3]LogAudio: Display: Audio Device Manager Shutdown
+[2026.10.29-05.37.53:179][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.10.29-05.37.53:179][  3]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2026.10.29-05.37.53:179][  3]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2026.10.29-05.37.53:179][  3]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2026.10.29-05.37.53:179][  3]LogShaderCompilers: Display: ================================================
+[2026.10.29-05.37.53:182][  3]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.10.29-05.37.55:247][  3]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2026.10.29-05.37.55:249][  3]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB5B39754-4662-0ACC-6519-1CA7C12FC54B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=2430022e4ce814a471e913a6dde0b454%7C82da935126da4cd3b5b8482e3b4a064d%7C8419ab49-8862-4376-8657-af77d45c0159&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.10.29-05.37.55:249][  3]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2026.10.29-05.37.55:363][  3]LogContentStreaming: Display: There are 1 unreleased StreamingManagers

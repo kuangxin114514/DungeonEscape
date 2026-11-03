@@ -1,0 +1,44 @@
+load /Script/UnrealEd.Default__KismetEditorUtilities => None
+load /Script/UnrealEd.KismetEditorUtilities => None
+load /Script/Blutility.Default__EditorUtilityLibrary => <Object '/Script/Blutility.Default__EditorUtilityLibrary' (0x000001CA9F601FF0) Class 'EditorUtilityLibrary'>
+hasattr unreal.KismetEditorUtilities = False
+  load_class KismetEditorUtilities => None
+hasattr unreal.BlueprintEditorLibrary = False
+  load_class BlueprintEditorLibrary => None
+hasattr unreal.SubobjectDataSubsystem = False
+  load_class SubobjectDataSubsystem => None
+hasattr unreal.BlueprintEditorUtils = False
+  load_class BlueprintEditorUtils => None
+scs=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0' (0x000001CADC6F8AA0) Class 'SimpleConstructionScript'>
+scs dir node/add: ['call_method']
+CreateNode ERR Object: Failed to find function 'CreateNode' on 'SimpleConstructionScript'
+CreateNodeAndRenameComponent ERR Object: Failed to find function 'CreateNodeAndRenameComponent' on 'SimpleConstructionScript'
+AddNode ERR Object: Failed to find function 'AddNode' on 'SimpleConstructionScript'
+AddNodeAndValidate ERR Object: Failed to find function 'AddNodeAndValidate' on 'SimpleConstructionScript'
+RemoveNode ERR Object: Failed to find function 'RemoveNode' on 'SimpleConstructionScript'
+GetAllNodes ERR Object: Failed to find function 'GetAllNodes' on 'SimpleConstructionScript'
+GetRootNodes ERR Object: Failed to find function 'GetRootNodes' on 'SimpleConstructionScript'
+GetSceneRootNodes ERR Object: Failed to find function 'GetSceneRootNodes' on 'SimpleConstructionScript'
+FindSceneNodeForVariable ERR Object: Failed to find function 'FindSceneNodeForVariable' on 'SimpleConstructionScript'
+GetComponentEditorActorInstance ERR Object: Failed to find function 'GetComponentEditorActorInstance' on 'SimpleConstructionScript'
+ValidateNode ERR Object: Failed to find function 'ValidateNode' on 'SimpleConstructionScript'
+ValidateSceneRootNodes ERR Object: Failed to find function 'ValidateSceneRootNodes' on 'SimpleConstructionScript'
+CreateNode named ERR Object: Failed to find function 'CreateNode' on 'SimpleConstructionScript'
+new node <Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C:SimpleConstructionScript_0.SCS_Node_Sword2' (0x000001CB95A22980) Class 'SCS_Node'>
+AddNode(node) ERR Object: Failed to find function 'AddNode' on 'SimpleConstructionScript'
+AddNodeAndValidate(node) ERR Object: Failed to find function 'AddNodeAndValidate' on 'SimpleConstructionScript'
+CreateNode ChildActor ERR Object: Failed to find function 'CreateNode' on 'SimpleConstructionScript'
+new_bp=<Object '/Game/Characters/Player/KayKit/Weapons/BP_ProbeSMA.BP_ProbeSMA' (0x000001CB8C0F8100) Class 'Blueprint'>
+bp.parent_class ERR Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'
+bp.ParentClass ERR Blueprint: Property 'ParentClass' for attribute 'ParentClass' on 'Blueprint' is protected and cannot be read
+bp.generated_class ERR Blueprint: Failed to find property 'generated_class' for attribute 'generated_class' on 'Blueprint'
+bp.GeneratedClass ERR Blueprint: Property 'GeneratedClass' for attribute 'GeneratedClass' on 'Blueprint' is protected and cannot be read
+bp.skeleton_generated_class ERR Blueprint: Failed to find property 'skeleton_generated_class' for attribute 'skeleton_generated_class' on 'Blueprint'
+gen=<Object '/Game/Characters/Player/KayKit/Weapons/BP_ProbeSMA.BP_ProbeSMA_C' (0x000001CB8C0F8800) Class 'BlueprintGeneratedClass'>
+cdo=<Object '/Game/Characters/Player/KayKit/Weapons/BP_ProbeSMA.Default__BP_ProbeSMA_C' (0x000001CC5F537200) Class 'BP_ProbeSMA_C'>
+smc=<Object '/Game/Characters/Player/KayKit/Weapons/BP_ProbeSMA.Default__BP_ProbeSMA_C:StaticMeshComponent0' (0x000001CC5EAB3200) Class 'StaticMeshComponent'>
+set sword on CDO smc
+set parent_class ERR Blueprint: Failed to find property 'parent_class' for attribute 'parent_class' on 'Blueprint'
+set ParentClass ERR Blueprint: Property 'ParentClass' for attribute 'ParentClass' on 'Blueprint' is protected and cannot be set
+gen2=<Object '/Game/Characters/Player/KayKit/Weapons/BP_ProbeSMA.BP_ProbeSMA_C' (0x000001CB8C0F8800) Class 'BlueprintGeneratedClass'>
+CDO2 StaticMeshComponent0 [StaticMeshComponent]

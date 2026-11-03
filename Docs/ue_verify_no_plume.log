@@ -1,0 +1,8 @@
+begin
+sk=<Object '/Game/Characters/Player/KayKit/Mesh/SK_KayKitKnight.SK_KayKitKnight' (0x000002372ABA0800) Class 'SkeletalMesh'>
+lod err 'SkeletalMesh' object has no attribute 'get_imported_resource'
+mat_slots=3
+slot0=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'>
+slot1=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'>
+slot2=<Object '/Game/Characters/Player/KayKit/Materials/M_KayKitKnight.M_KayKitKnight' (0x0000023739D2F040) Class 'Material'>
+DONE

@@ -1,0 +1,15 @@
+SMC methods: ['attach_to', 'attach_to_component', 'does_socket_exist', 'exclude_from_light_attachment_group', 'get_all_socket_names', 'get_attach_parent', 'get_attach_socket_name', 'get_socket_location', 'get_socket_quaternion', 'get_socket_rotation', 'get_socket_transform', 'k2_attach_to', 'light_attachments_as_group', 'set_exclude_from_light_attachment_group', 'set_light_attachments_as_group', 'set_static_mesh', 'static_mesh', 'use_attach_parent_bound']
+Actor methods: ['add_actor_local_offset', 'add_actor_local_rotation', 'add_actor_local_transform', 'add_actor_world_offset', 'add_actor_world_rotation', 'add_actor_world_transform', 'add_actor_world_transform_keep_scale', 'add_tick_prerequisite_actor', 'add_tick_prerequisite_component', 'attach_to_actor', 'attach_to_component', 'destroy_component', 'find_camera_component_when_view_target', 'get_attach_parent_actor', 'get_attach_parent_socket_name', 'get_attached_actors', 'get_component_by_class', 'get_components_by_class', 'get_components_by_interface', 'get_components_by_tag', 'get_overlapping_components', 'get_parent_component', 'get_touching_components', 'remove_tick_prerequisite_component', 'root_component']
+EditorLevelLibrary: ['get_all_level_actors_components', 'replace_mesh_components_materials', 'replace_mesh_components_materials_on_actors', 'replace_mesh_components_meshes', 'replace_mesh_components_meshes_on_actors', 'spawn_actor_from_class', 'spawn_actor_from_object']
+EditorActorSubsystem ERR module 'unreal' has no attribute 'EditorActorSubsystem'
+GameplayStatics: ['spawn_decal_at_location', 'spawn_decal_attached', 'spawn_dialogue2d', 'spawn_dialogue_at_location', 'spawn_dialogue_attached', 'spawn_emitter_at_location', 'spawn_emitter_attached', 'spawn_force_feedback_at_location', 'spawn_force_feedback_attached', 'spawn_sound2d', 'spawn_sound_at_location', 'spawn_sound_attached']
+KismetSystemLibrary ERR module 'unreal' has no attribute 'KismetSystemLibrary'
+bp_cls=<Object '/Game/Characters/Player/KayKit/BP_KayKitKnight.BP_KayKitKnight_C' (0x000001CADC3A9D00) Class 'BlueprintGeneratedClass'>
+spawned=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_2' (0x000001CB70E2CF00) Class 'BP_KayKitKnight_C'>
+skel comps=['CharacterMesh0']
+mesh=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_2.CharacterMesh0' (0x000001CC57E02B00) Class 'SkeletalMeshComponent'>
+new_object sword=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_2.SwordMeshProbe' (0x000001CC12C79600) Class 'StaticMeshComponent'>
+set mesh ok
+has attach_to_component
+attach_to_component => True parent=<Object '/Game/Maps/Hub/Map_Hub.Map_Hub:PersistentLevel.BP_KayKitKnight_C_2.CharacterMesh0' (0x000001CC57E02B00) Class 'SkeletalMeshComponent'> sock=handslot_r
+destroyed actor

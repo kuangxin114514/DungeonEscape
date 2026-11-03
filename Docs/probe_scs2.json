@@ -1,0 +1,122 @@
+{
+  "tries": [
+    {
+      "m": "call_fail",
+      "meth": "GetSimpleConstructionScript",
+      "err": "Blueprint: Failed to find function 'GetSimpleConstructionScript' on 'Blueprint'"
+    },
+    {
+      "m": "call_fail",
+      "meth": "get_simple_construction_script",
+      "err": "Blueprint: Failed to find function 'get_simple_construction_script' on 'Blueprint'"
+    },
+    {
+      "m": "call_fail",
+      "meth": "GetBlueprintInheritedVariables",
+      "err": "Blueprint: Failed to find function 'GetBlueprintInheritedVariables' on 'Blueprint'"
+    },
+    {
+      "m": "aes",
+      "val": "<Object '/Engine/Transient.UnrealEdEngine_0:AssetEditorSubsystem_0' (0x000001CAA577BD00) Class 'AssetEditorSubsystem'>",
+      "methods": [
+        "call_method",
+        "cast",
+        "close_all_editors_for_asset",
+        "get_class",
+        "get_default_object",
+        "get_editor_property",
+        "get_fname",
+        "get_full_name",
+        "get_name",
+        "get_outer",
+        "get_outermost",
+        "get_path_name",
+        "get_typed_outer",
+        "get_world",
+        "modify",
+        "open_editor_for_assets",
+        "rename",
+        "set_editor_properties",
+        "set_editor_property",
+        "static_class"
+      ]
+    },
+    {
+      "m": "opened_bp"
+    },
+    {
+      "m": "eus",
+      "methods": [
+        "call_method",
+        "can_run",
+        "cast",
+        "close_tab_by_id",
+        "does_tab_exist",
+        "find_utility_widget_from_blueprint",
+        "get_class",
+        "get_default_object",
+        "get_editor_property",
+        "get_fname",
+        "get_full_name",
+        "get_name",
+        "get_outer",
+        "get_outermost",
+        "get_path_name",
+        "get_typed_outer",
+        "get_world",
+        "modify",
+        "register_and_execute_task",
+        "register_tab_and_get_id",
+        "release_instance_of_asset",
+        "rename",
+        "set_editor_properties",
+        "set_editor_property",
+        "spawn_and_register_tab",
+        "spawn_and_register_tab_and_get_id",
+        "spawn_registered_tab_by_id",
+        "static_class",
+        "try_run"
+      ]
+    },
+    {
+      "m": "actor_bp",
+      "val": "<Object '/Game/Characters/Player/KayKit/BP_WeaponAttachProbe.BP_WeaponAttachProbe' (0x000001CB5B18DD00) Class 'Blueprint'>"
+    },
+    {
+      "m": "actor_scs_fail",
+      "err": "Blueprint: Property 'SimpleConstructionScript' for attribute 'SimpleConstructionScript' on 'Blueprint' is protected and cannot be read"
+    },
+    {
+      "m": "actor_call_fail",
+      "err": "Blueprint: Failed to find function 'GetSimpleConstructionScript' on 'Blueprint'"
+    },
+    {
+      "m": "scs_cls",
+      "val": "<Object '/Script/Engine.SimpleConstructionScript' (0x000001CAF4298400) Class 'Class'>",
+      "dir": [
+        "call_method",
+        "cast",
+        "get_class",
+        "get_default_object",
+        "get_editor_property",
+        "get_fname",
+        "get_full_name",
+        "get_name",
+        "get_outer",
+        "get_outermost",
+        "get_path_name",
+        "get_typed_outer",
+        "get_world",
+        "modify",
+        "rename",
+        "set_editor_properties",
+        "set_editor_property",
+        "static_class"
+      ]
+    },
+    {
+      "m": "scs_cls_attrs",
+      "attrs": "no_py_class"
+    }
+  ]
+}

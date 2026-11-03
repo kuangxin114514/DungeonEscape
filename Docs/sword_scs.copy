@@ -1,0 +1,12 @@
+Begin Object Class=/Script/Engine.SimpleConstructionScript Name="SimpleConstructionScript_0"
+   Begin Object Class=/Script/Engine.SCS_Node Name="SCS_Node_0"
+   End Object
+   Begin Object Name="SCS_Node_0"
+      ComponentClass=Class'"/Script/Engine.SceneComponent"'
+      ComponentTemplate=SceneComponent'"BP_KayKitSwordActor_C:DefaultSceneRoot_GEN_VARIABLE"'
+      CategoryName=NSLOCTEXT("SCS", "Default", "Default")
+      VariableGuid=CD077C0A446E8DE84F49F0B1C29DD358
+      InternalVariableName="DefaultSceneRoot"
+   End Object
+   DefaultSceneRootNode=SCS_Node'"SCS_Node_0"'
+End Object
